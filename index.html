@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mapping the News</title>
+  <script type="text/javascript" src="d3.js"></script>
+  <script type="text/javascript" src="d3.geom.js"></script>
+  <script type="text/javascript" src="d3.layout.js"></script>
+</head>
+
+<body>
+
+</body>
+
+<style>
+  body{
+    background=color: #fafafa;
+    font=size: 16px;
+  }
+  circle.node {
+    cursor: pointer;
+    stroke: #000;
+    stroke-width: .5px;
+  }
+  line.link {
+    fill: none;
+    stroke: #9ecae1;
+    stroke-width: 1.5px;
+  }
+</style>
+<script>
+
+var w = 1280,
+    h = 800;
+var svg = d3.select("body")
+  .append("svg")
+  .attr("width", w)
+  .attr("height", h)
+  .attr("preserveAspectRatio", "xMinYMin slice")
+  .append("g");
+
+d3.json("template.json", function(error,json) {
+  if(error) {return console.warn(error)};
+  console.log(json);
+  console.log(json.data);
+
+ /*Maps through data.json to get co-occurrences*/
+  var mapCooc = json.data.map(function(d){return d.cooc;})
+  console.log(mapCooc)
+
+
+  var force = self.force = d3.layout.force()
+    .nodes(json.data)
+    .links(mapCooc)
+    .linkStrength(0.5)
+    .linkDistance(10)
+    .gravity(0.1)
+    .distance(10)
+    .size([w,h])
+    .start();
+
+});
+</script>
+
+</html>
