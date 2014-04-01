@@ -1,11 +1,14 @@
 #Mapping the News
 
-Mapping the News is a BBC News Lab project
+Mapping the News is a BBC News Lab project.
 
 #To-do
 
-- Waiting for Jeremy's query and middle-layer JS
-- Set up template for D3 bubble chart
+- Setting up template for D3 bubble chart
+- Solve the linking issue between co-occurences
+- Add a circle for each label (including co-occurrences)
+- ???
+- EXPAND to more results
 
 ###Contact
 [@basilesimon](http://twitter.com/basilesimon)
