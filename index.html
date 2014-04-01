@@ -45,13 +45,12 @@ d3.json("test.json", function(error,json) {
   console.log(json.occurrences);
 
  /*Maps through data.json to get co-occurrences*/
-/*  var mapCooc = json.occurrences.map(function(d){return d.co-occurrences;})
-  console.log(mapCooc)*/
-  console.log(json.occurrences[0].cooccurrences[1]);
+  var mapCooc = json.occurrences.map(function(d){return d.cooccurrences;})
+  console.log(mapCooc)
 
   var force = self.force = d3.layout.force()
     .nodes(json.occurrences)
-/*    .links()
+/*    .links(json.occurrences.cooccurrences)
     .linkStrength(0.5)
     .linkDistance(10)*/
     .gravity(0.1)
