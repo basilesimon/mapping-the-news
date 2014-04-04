@@ -20,7 +20,7 @@
   circle.node {
     cursor: pointer;
     stroke: #000;
-    stroke-width: .5px;
+    stroke-width:px;
   }
   line.link {
     fill: none;
@@ -41,29 +41,35 @@ var svg = d3.select("body")
 
 d3.json("test.json", function(error,json) {
   if(error) {return console.warn(error)};
-  console.log(json);
-  console.log(json.occurrences);
 
  /*Maps through data.json to get co-occurrences*/
   var mapCooc = json.occurrences.map(function(d){return d.cooccurrences;})
+  console.log("TESTS");
+  console.log(json);
+  console.log(json.occurrences);
   console.log(mapCooc)
 
   var force = self.force = d3.layout.force()
     .nodes(json.occurrences)
-/*    .links(json.occurrences.cooccurrences)
+    .links(json.links)
     .linkStrength(0.5)
-    .linkDistance(10)*/
-    .gravity(0.1)
-    .distance(30)
-    .charge(-100)
+    .linkDistance(10)
+    .gravity(0.3)
+    .distance(20)
+    .charge(-700)
     .size([w,h])
     .start();
+
+  var node_drag = d3.behavior.drag()
+    .on("dragstart", dragstart)
+    .on("drag", dragmove)
+    .on("dragend", dragend);
 
   var node = svg.selectAll("circle")
     .data(json.occurrences)
     .enter().append("circle")
     .attr("class", "node")
-    .attr("r", function(d){return d.occurrence / 150})
+    .attr("r", function(d){return d.occurrence/70})
     .attr("cx", function() {
       return Math.random() * w;
     })
@@ -72,6 +78,15 @@ d3.json("test.json", function(error,json) {
     })
     .style("fill", "#ef492a")
     .call(force.drag);
+
+  var link = svg.selectAll(".link")
+    .data(json.links)
+    .enter().append("line")
+    .attr("class", "link")
+/*    .attr("x1", function(d) { return d.source.x; })
+    .attr("y1", function(d) { return d.source.y; })
+    .attr("x2", function(d) { return d.target.x; })
+    .attr("y2", function(d) { return d.target.y; });*/
 
   function dragstart(d, i) {
     force.stop(); // stops the force auto positioning before you start dragging
@@ -90,11 +105,19 @@ d3.json("test.json", function(error,json) {
     tick();
     force.resume();
   }
-
+    node.append("title")
+      .text(function(d) {
+        var tool = d.label ;
+        return (tool);
+      });
   force.on("tick", tick);
 
 /*Needs fixing the appropriate position post drag*/
   function tick() {
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
     node.attr("cx", function(d) { return d.x; })
         .attr("cy", function(d) { return d.y; });
   }
