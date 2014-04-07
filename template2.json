@@ -1,0 +1,105 @@
+{
+   // First, list of entities
+   "entities":[
+      {
+         "label":"Vladimir Putin",
+         "occurrence":1118,
+      },
+      {
+         "label":"David Cameron",
+         "occurrence":909,
+      },
+      {
+         "label":"Barack Obama",
+         "occurrence":804,
+      },
+      {
+         "label":"Malaysia Airlines",
+         "occurrence":700,
+      }
+   ],
+   // Then, list of co-occurences for each entity aforementioned.
+   // Easier to define the links for the visualisation
+   "co-occurrences": [
+      {
+        "label": "Vladimir Putin",
+        "quoted-with": [
+            {
+               "label":"Russia",
+               "occurrence":1000
+            },
+            {
+               "label":"Crimea",
+               "occurrence":700
+            },
+            {
+               "label":"David Cameron",
+               "occurrence":500
+            },
+            {
+               "label":"Barack_Obama",
+               "occurrence":850
+            },
+            {
+               "label":"Ukraine",
+               "occurrence":1100
+            }
+         ]
+      },
+      {
+        "label": "David Cameron",
+         "quoted-with":[
+            {
+               "label":"Barack Obama",
+               "occurrence":250
+            },
+            {
+               "label":"UK",
+               "occurrence":700
+            },
+            {
+               "label":"François Hollande",
+               "occurrence":200
+            },
+            {
+               "label":"Nick Clegg",
+               "occurrence":350
+            }
+         ]
+      },
+      {
+        "label": "Barack Obama",
+         "quoted-with":[
+            {
+               "label":"United States",
+               "occurrence":400
+            },
+            {
+               "label":"Russia",
+               "occurrence":350
+            },
+            {
+               "label":"Crimea",
+               "occurrence":175
+            }
+         ]
+      },
+      {
+        "label": "Malaysia Airlines",
+        "quoted-with":[
+            {
+               "label":"Malaysia",
+               "occurrence":600
+            },
+            {
+               "label":"China",
+               "occurrence":500
+            },
+            {
+               "label":"Australia",
+               "occurrence":300
+            }
+         ]
+      }
+   ]
+}

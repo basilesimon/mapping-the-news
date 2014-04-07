@@ -20,12 +20,17 @@
   circle.node {
     cursor: pointer;
     stroke: #000;
-    stroke-width:px;
+    stroke-width:2px;
   }
   line.link {
     fill: none;
     stroke: #9ecae1;
-    stroke-width: 1.5px;
+    stroke-width: 2px;
+  }
+  text {
+    font: 15px sans-serif;
+    pointer-events: none;
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
   }
 </style>
 <script>
@@ -36,10 +41,10 @@ var svg = d3.select("body")
   .append("svg")
   .attr("width", w)
   .attr("height", h)
-  .attr("preserveAspectRatio", "xMinYMin slice")
-  .append("g");
+  .attr("preserveAspectRatio", "xMinYMin slice");
 
-d3.json("test.json", function(error,json) {
+
+d3.json("testter.json", function(error,json) {
   if(error) {return console.warn(error)};
 
  /*Maps through data.json to get co-occurrences*/
@@ -52,10 +57,10 @@ d3.json("test.json", function(error,json) {
   var force = self.force = d3.layout.force()
     .nodes(json.occurrences)
     .links(json.links)
-    .linkStrength(0.5)
-    .linkDistance(10)
-    .gravity(0.3)
-    .distance(20)
+    .linkStrength(0.2)
+    .linkDistance(200)
+    .gravity(0.1)
+    .distance(300)
     .charge(-700)
     .size([w,h])
     .start();
@@ -65,19 +70,27 @@ d3.json("test.json", function(error,json) {
     .on("drag", dragmove)
     .on("dragend", dragend);
 
-  var node = svg.selectAll("circle")
+  var node = svg.append("g").selectAll("circle")
     .data(json.occurrences)
     .enter().append("circle")
     .attr("class", "node")
-    .attr("r", function(d){return d.occurrence/70})
-    .attr("cx", function() {
-      return Math.random() * w;
-    })
+    .attr("r", function(d){return d.occurrence/3})
+/*    .attr("cx", function() {
+      return Math.random() * w; })
     .attr("cy", function() {
-      return Math.random() * h;
-    })
-    .style("fill", "#ef492a")
-    .call(force.drag);
+      return Math.random() * h; })*/
+    .style("fill", "#ef492a");
+    /*Disables the drag behaviour*/
+/*    .call(force.drag);*/
+
+  var text = svg.selectAll("text")
+      .data(json.occurrences)
+      .enter().append("text")
+      .attr("x", function(d){ return d.x; })
+      .attr("y", function(d){ return d.y; })
+      .text(function(d) { return d.label; });
+
+
 
   var link = svg.selectAll(".link")
     .data(json.links)
@@ -104,12 +117,8 @@ d3.json("test.json", function(error,json) {
     d.fixed = true; // of course set the node to fixed so the force doesn't include the node in its auto positioning stuff
     tick();
     force.resume();
-  }
-    node.append("title")
-      .text(function(d) {
-        var tool = d.label ;
-        return (tool);
-      });
+    }
+
   force.on("tick", tick);
 
 /*Needs fixing the appropriate position post drag*/
@@ -120,6 +129,9 @@ d3.json("test.json", function(error,json) {
         .attr("y2", function(d) { return d.target.y; });
     node.attr("cx", function(d) { return d.x; })
         .attr("cy", function(d) { return d.y; });
+    text.attr("x", function(d) { return d.x; })
+        .attr("y", function(d) { return d.y; });
+
   }
 });
 </script>

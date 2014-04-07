@@ -1,65 +1,40 @@
   {"occurrences":[
 
     {"label": "David Cameron",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Official-photo-cameron.png/200px-Official-photo-cameron.png",
-    "occurrence": "2694",
-    "thing": "http://dbpedia.org/resource/David_Cameron"},
+    "occurrence": "2694"},
 
     {"label": "United Kingdom",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/200px-Flag_of_the_United_Kingdom.svg.png",
-    "occurrence": "1273",
-    "thing": "http://dbpedia.org/resource/United_Kingdom"},
+    "occurrence": "1273"},
 
     {"label": "London",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/London_collage.jpg/200px-London_collage.jpg",
-    "occurrence": "713",
-    "thing": "http://dbpedia.org/resource/London"},
+    "occurrence": "713"},
 
     {"label": "England",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/200px-Flag_of_England.svg.png",
-    "occurrence": "593",
-    "thing": "http://dbpedia.org/resource/England"},
+    "occurrence": "593"},
 
     {"label": "Vladimir Putin",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vladimir_Putin_12015.jpg/200px-Vladimir_Putin_12015.jpg",
-    "occurrence": "2442",
-    "thing": "http://dbpedia.org/resource/Vladimir_Putin"},
+    "occurrence": "2442"},
 
     {"label": "Russia",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/200px-Flag_of_Russia.svg.png",
-    "occurrence": "2264",
-    "thing": "http://dbpedia.org/resource/Russia"},
+    "occurrence": "2264"},
 
     {"label": "Ukraine",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/200px-Flag_of_Ukraine.svg.png",
-    "occurrence": "1855",
-    "thing": "http://dbpedia.org/resource/Ukraine"},
+    "occurrence": "1855"},
 
     {"label": "Moscow",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Moscow_collage_new_(2011).jpg/200px-Moscow_collage_new_(2011).jpg",
-    "occurrence": "1560",
-    "thing": "http://dbpedia.org/resource/Moscow"},
-
+    "occurrence": "1560"},
 
     {"label": "Barack Obama",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/200px-Official_portrait_of_Barack_Obama.jpg",
-    "occurrence": "2077",
-    "thing": "http://dbpedia.org/resource/Barack_Obama"},
+    "occurrence": "2077"},
 
     {"label": "United States",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_(Pantone).svg/200px-Flag_of_the_United_States_(Pantone).svg.png",
-    "occurrence": "1849",
-    "thing": "http://dbpedia.org/resource/United_States"},
+    "occurrence": "1849"},
 
     {"label": "Russia",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/200px-Flag_of_Russia.svg.png",
-    "occurrence": "868",
-    "thing": "http://dbpedia.org/resource/Russia"},
+    "occurrence": "868"},
 
     {"label": "Ukraine",
-    "img": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/200px-Flag_of_Ukraine.svg.png",
-    "occurrence": "784",
-    "thing": "http://dbpedia.org/resource/Ukraine"}
+    "occurrence": "784"}
 
   ],
   "links":[
