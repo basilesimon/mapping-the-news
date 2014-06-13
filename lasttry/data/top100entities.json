@@ -1,0 +1,404 @@
+{
+    "occurrences": [
+        {
+            "label": "David Cameron",
+            "occurrence": "1568"
+        },
+        {
+            "label": "Barack Obama",
+            "occurrence": "1254"
+        },
+        {
+            "label": "Vladimir Putin",
+            "occurrence": "1162"
+        },
+        {
+            "label": "David Moyes",
+            "occurrence": "676"
+        },
+        {
+            "label": "Ed Miliband",
+            "occurrence": "604"
+        },
+        {
+            "label": "Recep Tayyip Erdoğan",
+            "occurrence": "594"
+        },
+        {
+            "label": "José Mourinho",
+            "occurrence": "502"
+        },
+        {
+            "label": "Nick Clegg",
+            "occurrence": "463"
+        },
+        {
+            "label": "Alex Salmond",
+            "occurrence": "461"
+        },
+        {
+            "label": "Viktor Yanukovych",
+            "occurrence": "426"
+        },
+        {
+            "label": "Brendan Rodgers",
+            "occurrence": "422"
+        },
+        {
+            "label": "George Galloway",
+            "occurrence": "410"
+        },
+        {
+            "label": "Roy Hodgson",
+            "occurrence": "407"
+        },
+        {
+            "label": "Sergey Lavrov",
+            "occurrence": "402"
+        },
+        {
+            "label": "Michael Gove",
+            "occurrence": "386"
+        },
+        {
+            "label": "David",
+            "occurrence": "382"
+        },
+        {
+            "label": "John Kerry",
+            "occurrence": "379"
+        },
+        {
+            "label": "Nigel Farage",
+            "occurrence": "377"
+        },
+        {
+            "label": "Wayne Rooney",
+            "occurrence": "376"
+        },
+        {
+            "label": "Michael Fabricant",
+            "occurrence": "367"
+        },
+        {
+            "label": "Alex Ferguson",
+            "occurrence": "365"
+        },
+        {
+            "label": "Hamid Karzai",
+            "occurrence": "335"
+        },
+        {
+            "label": "Ashraf Ghani Ahmadzai",
+            "occurrence": "329"
+        },
+        {
+            "label": "George Osborne",
+            "occurrence": "322"
+        },
+        {
+            "label": "Karl McCartney",
+            "occurrence": "304"
+        },
+        {
+            "label": "Steven Gerrard",
+            "occurrence": "302"
+        },
+        {
+            "label": "Tony Blair",
+            "occurrence": "294"
+        },
+        {
+            "label": "Angus MacNeil",
+            "occurrence": "293"
+        },
+        {
+            "label": "Maria Miller",
+            "occurrence": "287"
+        },
+        {
+            "label": "Paul Lambert",
+            "occurrence": "285"
+        },
+        {
+            "label": "Arsène Wenger",
+            "occurrence": "279"
+        },
+        {
+            "label": "Oleksandr Turchynov",
+            "occurrence": "279"
+        },
+        {
+            "label": "Julian Huppert",
+            "occurrence": "279"
+        },
+        {
+            "label": "Simon Cowell",
+            "occurrence": "276"
+        },
+        {
+            "label": "Muhammad",
+            "occurrence": "263"
+        },
+        {
+            "label": "Roberto Martínez",
+            "occurrence": "263"
+        },
+        {
+            "label": "Enda Kenny",
+            "occurrence": "258"
+        },
+        {
+            "label": "Petro Poroshenko",
+            "occurrence": "246"
+        },
+        {
+            "label": "Daniel Sturridge",
+            "occurrence": "243"
+        },
+        {
+            "label": "Martin McGuinness",
+            "occurrence": "242"
+        },
+        {
+            "label": "Oscar Pistorius",
+            "occurrence": "240"
+        },
+        {
+            "label": "Bashar al-Assad",
+            "occurrence": "238"
+        },
+        {
+            "label": "Tony Abbott",
+            "occurrence": "237"
+        },
+        {
+            "label": "Stella Creasy",
+            "occurrence": "235"
+        },
+        {
+            "label": "Louis van Gaal",
+            "occurrence": "230"
+        },
+        {
+            "label": "Ryan Giggs",
+            "occurrence": "230"
+        },
+        {
+            "label": "Angela Merkel",
+            "occurrence": "227"
+        },
+        {
+            "label": "Jamie Reed",
+            "occurrence": "227"
+        },
+        {
+            "label": "Mahmoud Abbas",
+            "occurrence": "216"
+        },
+        {
+            "label": "Karl Turner (politician)",
+            "occurrence": "210"
+        },
+        {
+            "label": "Raheem Sterling",
+            "occurrence": "208"
+        },
+        {
+            "label": "Simon Danczuk",
+            "occurrence": "207"
+        },
+        {
+            "label": "Rob Wilson",
+            "occurrence": "206"
+        },
+        {
+            "label": "Jesus",
+            "occurrence": "202"
+        },
+        {
+            "label": "Nawaz Sharif",
+            "occurrence": "199"
+        },
+        {
+            "label": "Arseniy Yatsenyuk",
+            "occurrence": "199"
+        },
+        {
+            "label": "Andy Murray",
+            "occurrence": "196"
+        },
+        {
+            "label": "François Hollande",
+            "occurrence": "195"
+        },
+        {
+            "label": "Mike Gapes",
+            "occurrence": "195"
+        },
+        {
+            "label": "Boris Johnson",
+            "occurrence": "191"
+        },
+        {
+            "label": "Angus Houston",
+            "occurrence": "189"
+        },
+        {
+            "label": "Arsen Avakov",
+            "occurrence": "189"
+        },
+        {
+            "label": "Manuel Pellegrini",
+            "occurrence": "188"
+        },
+        {
+            "label": "Greg Mulholland",
+            "occurrence": "183"
+        },
+        {
+            "label": "Abdullah Gül",
+            "occurrence": "182"
+        },
+        {
+            "label": "Cristiano Ronaldo",
+            "occurrence": "179"
+        },
+        {
+            "label": "Lewis Hamilton",
+            "occurrence": "176"
+        },
+        {
+            "label": "George Freeman (politician)",
+            "occurrence": "175"
+        },
+        {
+            "label": "Rik Mayall",
+            "occurrence": "173"
+        },
+        {
+            "label": "Bob Geldof",
+            "occurrence": "170"
+        },
+        {
+            "label": "Paula Yates",
+            "occurrence": "169"
+        },
+        {
+            "label": "Nico Rosberg",
+            "occurrence": "168"
+        },
+        {
+            "label": "Margaret Thatcher",
+            "occurrence": "165"
+        },
+        {
+            "label": "Gordon Brown",
+            "occurrence": "165"
+        },
+        {
+            "label": "Kenny Jackett",
+            "occurrence": "164"
+        },
+        {
+            "label": "Andrew Gwynne",
+            "occurrence": "164"
+        },
+        {
+            "label": "Jason McCartney (politician)",
+            "occurrence": "163"
+        },
+        {
+            "label": "Matthew Hancock",
+            "occurrence": "162"
+        },
+        {
+            "label": "David Beckham",
+            "occurrence": "161"
+        },
+        {
+            "label": "Frank Lampard",
+            "occurrence": "161"
+        },
+        {
+            "label": "Luke Shaw",
+            "occurrence": "161"
+        },
+        {
+            "label": "Anne McGuire",
+            "occurrence": "161"
+        },
+        {
+            "label": "William Hague",
+            "occurrence": "160"
+        },
+        {
+            "label": "Pepe Mel",
+            "occurrence": "159"
+        },
+        {
+            "label": "Shinzō Abe",
+            "occurrence": "158"
+        },
+        {
+            "label": "Neil Lennon",
+            "occurrence": "157"
+        },
+        {
+            "label": "Diana Johnson",
+            "occurrence": "157"
+        },
+        {
+            "label": "Tom Brake",
+            "occurrence": "157"
+        },
+        {
+            "label": "Joe Biden",
+            "occurrence": "155"
+        },
+        {
+            "label": "Zalmai Rassoul",
+            "occurrence": "155"
+        },
+        {
+            "label": "Tim Sherwood",
+            "occurrence": "155"
+        },
+        {
+            "label": "David Lidington",
+            "occurrence": "150"
+        },
+        {
+            "label": "Tom Blenkinsop",
+            "occurrence": "150"
+        },
+        {
+            "label": "Rory McIlroy",
+            "occurrence": "149"
+        },
+        {
+            "label": "Danny Welbeck",
+            "occurrence": "149"
+        },
+        {
+            "label": "Narendra Modi",
+            "occurrence": "148"
+        },
+        {
+            "label": "Jonathan Edwards (Welsh politician)",
+            "occurrence": "148"
+        },
+        {
+            "label": "Ed Balls",
+            "occurrence": "147"
+        },
+        {
+            "label": "Tony Pulis",
+            "occurrence": "144"
+        },
+        {
+            "label": "Xi Jinping",
+            "occurrence": "141"
+        }
+    ]
+}
