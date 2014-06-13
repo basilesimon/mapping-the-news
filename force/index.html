@@ -15,7 +15,7 @@
 <style>
   body{
     background=color: #fafafa;
-    font=size: 16px;
+    font-size: 16px;
   }
   circle.node {
     cursor: pointer;
@@ -57,10 +57,10 @@ d3.json("testter.json", function(error,json) {
   var force = self.force = d3.layout.force()
     .nodes(json.occurrences)
     .links(json.links)
-    .linkStrength(0.2)
+    .linkStrength(0.1)
     .linkDistance(200)
     .gravity(0.1)
-    .distance(300)
+    .distance(function(d){ return 1/ d.weight*5})
     .charge(-700)
     .size([w,h])
     .start();
