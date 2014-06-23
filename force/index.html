@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <title>Mapping the News</title>
-  <script type="text/javascript" src="d3.js"></script>
-  <script type="text/javascript" src="d3.geom.js"></script>
-  <script type="text/javascript" src="d3.layout.js"></script>
+  <script type="text/javascript" src="lib/d3.js"></script>
+  <script type="text/javascript" src="lib/d3.geom.js"></script>
+  <script type="text/javascript" src="lib/d3.layout.js"></script>
 </head>
 
 <body>
@@ -44,15 +44,15 @@ var svg = d3.select("body")
   .attr("preserveAspectRatio", "xMinYMin slice");
 
 
-d3.json("testter.json", function(error,json) {
+d3.json("data/new_data.json", function(error,json) {
   if(error) {return console.warn(error)};
 
  /*Maps through data.json to get co-occurrences*/
-  var mapCooc = json.occurrences.map(function(d){return d.cooccurrences;})
+  /*var mapCooc = json.occurrences.map(function(d){return d.cooccurrences;})
   console.log("TESTS");
   console.log(json);
   console.log(json.occurrences);
-  console.log(mapCooc)
+  console.log(mapCooc)*/
 
   var force = self.force = d3.layout.force()
     .nodes(json.occurrences)
@@ -74,7 +74,7 @@ d3.json("testter.json", function(error,json) {
     .data(json.occurrences)
     .enter().append("circle")
     .attr("class", "node")
-    .attr("r", function(d){return d.occurrence/3})
+    .attr("r", function(d){return d.occurrence/30})
 /*    .attr("cx", function() {
       return Math.random() * w; })
     .attr("cy", function() {

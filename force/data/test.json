@@ -1,0 +1,53 @@
+  {"occurrences":[
+
+    {"label": "David Cameron",
+    "occurrence": "2694"},
+
+    {"label": "United Kingdom",
+    "occurrence": "1273"},
+
+    {"label": "London",
+    "occurrence": "713"},
+
+    {"label": "England",
+    "occurrence": "593"},
+
+    {"label": "Vladimir Putin",
+    "occurrence": "2442"},
+
+    {"label": "Russia",
+    "occurrence": "2264"},
+
+    {"label": "Ukraine",
+    "occurrence": "1855"},
+
+    {"label": "Moscow",
+    "occurrence": "1560"},
+
+    {"label": "Barack Obama",
+    "occurrence": "2077"},
+
+    {"label": "United States",
+    "occurrence": "1849"},
+
+    {"label": "Russia",
+    "occurrence": "868"},
+
+    {"label": "Ukraine",
+    "occurrence": "784"}
+
+  ],
+  "links":[
+    {"source": 0, "target": 1, "weight":1},
+    {"source": 0, "target": 2, "weight":1},
+    {"source": 0, "target": 3, "weight":1},
+    {"source": 4, "target": 5, "weight":1},
+    {"source": 4, "target": 6, "weight":1},
+    {"source": 4, "target": 7, "weight":1},
+    {"source": 8, "target": 9, "weight":1},
+    {"source": 8, "target": 6, "weight":1},
+    {"source": 8, "target": 7, "weight":1}
+  ]
+}
+
+
