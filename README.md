@@ -1,13 +1,11 @@
+![alt-tag](https://raw.githubusercontent.com/basilesimon/mapping-the-news/master/force/Mapping%20the%20News.png)
+
 #Mapping the News
 
 Mapping the News is a BBC News Lab project.
 
 #To-do
 
-- Setting up template for D3 bubble chart
-- Solve the linking issue between co-occurences
-- Add a circle for each label (including co-occurrences)
-- ???
 - EXPAND to more results
 
 ###Contact
