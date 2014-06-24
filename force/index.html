@@ -96,10 +96,10 @@ d3.json("data/new_data.json", function(error,json) {
     .data(json.links)
     .enter().append("line")
     .attr("class", "link")
-/*    .attr("x1", function(d) { return d.source.x; })
+    .attr("x1", function(d) { return d.source.x; })
     .attr("y1", function(d) { return d.source.y; })
     .attr("x2", function(d) { return d.target.x; })
-    .attr("y2", function(d) { return d.target.y; });*/
+    .attr("y2", function(d) { return d.target.y; });
 
   function dragstart(d, i) {
     force.stop(); // stops the force auto positioning before you start dragging
