@@ -48,11 +48,11 @@ def trace_links(data, occurrences):
 
 
 def main():
-    data = json.load(open('20.json'))
+    data = json.load(open('50.json'))
     new_data = {}
     new_data['occurrences'] = extract_all_occurences(data)
     new_data['links'] = trace_links(data, new_data['occurrences'])
-    with open('new_data_20.json', 'w') as out:
+    with open('new_data_50.json', 'w') as out:
         json.dump(new_data, out, indent=2)
 
 if __name__ == '__main__':

@@ -1,0 +1,10757 @@
+	{"occurrences":[
+	
+		{"label": "George Galloway", 
+		"occurrence": "930"}
+		
+			,
+		
+	
+		{"label": "David Cameron", 
+		"occurrence": "902"}
+		
+			,
+		
+	
+		{"label": "Barack Obama", 
+		"occurrence": "687"}
+		
+			,
+		
+	
+		{"label": "Roy Hodgson", 
+		"occurrence": "612"}
+		
+			,
+		
+	
+		{"label": "Karl McCartney", 
+		"occurrence": "606"}
+		
+			,
+		
+	
+		{"label": "Julian Huppert", 
+		"occurrence": "591"}
+		
+			,
+		
+	
+		{"label": "Michael Fabricant", 
+		"occurrence": "576"}
+		
+			,
+		
+	
+		{"label": "Angus MacNeil", 
+		"occurrence": "553"}
+		
+			,
+		
+	
+		{"label": "Stella Creasy", 
+		"occurrence": "552"}
+		
+			,
+		
+	
+		{"label": "Jamie Reed", 
+		"occurrence": "530"}
+		
+			,
+		
+	
+		{"label": "Ed Miliband", 
+		"occurrence": "524"}
+		
+			,
+		
+	
+		{"label": "Karl Turner (politician)", 
+		"occurrence": "456"}
+		
+			,
+		
+	
+		{"label": "Wayne Rooney", 
+		"occurrence": "426"}
+		
+			,
+		
+	
+		{"label": "Greg Mulholland", 
+		"occurrence": "420"}
+		
+			,
+		
+	
+		{"label": "Alex Salmond", 
+		"occurrence": "402"}
+		
+			,
+		
+	
+		{"label": "Andrew Gwynne", 
+		"occurrence": "360"}
+		
+			,
+		
+	
+		{"label": "Tony Blair", 
+		"occurrence": "357"}
+		
+			,
+		
+	
+		{"label": "Simon Danczuk", 
+		"occurrence": "356"}
+		
+			,
+		
+	
+		{"label": "Michael Gove", 
+		"occurrence": "351"}
+		
+			,
+		
+	
+		{"label": "Jonathan Edwards (Welsh politician)", 
+		"occurrence": "347"}
+		
+			,
+		
+	
+		{"label": "Diana Johnson", 
+		"occurrence": "344"}
+		
+			,
+		
+	
+		{"label": "Mike Gapes", 
+		"occurrence": "337"}
+		
+			,
+		
+	
+		{"label": "Andy Slaughter", 
+		"occurrence": "322"}
+		
+			,
+		
+	
+		{"label": "George Freeman (politician)", 
+		"occurrence": "320"}
+		
+			,
+		
+	
+		{"label": "Rob Wilson", 
+		"occurrence": "319"}
+		
+			,
+		
+	
+		{"label": "Jason McCartney (politician)", 
+		"occurrence": "318"}
+		
+			,
+		
+	
+		{"label": "Michael Dugher", 
+		"occurrence": "304"}
+		
+			,
+		
+	
+		{"label": "Daniel Sturridge", 
+		"occurrence": "302"}
+		
+			,
+		
+	
+		{"label": "Anne McGuire", 
+		"occurrence": "301"}
+		
+			,
+		
+	
+		{"label": "Tom Brake", 
+		"occurrence": "297"}
+		
+			,
+		
+	
+		{"label": "Steven Gerrard", 
+		"occurrence": "291"}
+		
+			,
+		
+	
+		{"label": "Nick Clegg", 
+		"occurrence": "285"}
+		
+			,
+		
+	
+		{"label": "Tom Blenkinsop", 
+		"occurrence": "281"}
+		
+			,
+		
+	
+		{"label": "Raheem Sterling", 
+		"occurrence": "274"}
+		
+			,
+		
+	
+		{"label": "Pete Wishart", 
+		"occurrence": "259"}
+		
+			,
+		
+	
+		{"label": "Chuka Umunna", 
+		"occurrence": "257"}
+		
+			,
+		
+	
+		{"label": "Douglas Carswell", 
+		"occurrence": "249"}
+		
+			,
+		
+	
+		{"label": "Petro Poroshenko", 
+		"occurrence": "242"}
+		
+			,
+		
+	
+		{"label": "Rik Mayall", 
+		"occurrence": "241"}
+		
+			,
+		
+	
+		{"label": "Andrew Percy", 
+		"occurrence": "236"}
+		
+			,
+		
+	
+		{"label": "Jason McCartney (footballer)", 
+		"occurrence": "232"}
+		
+			,
+		
+	
+		{"label": "Debbie Abrahams", 
+		"occurrence": "231"}
+		
+			,
+		
+	
+		{"label": "Vladimir Putin", 
+		"occurrence": "228"}
+		
+			,
+		
+	
+		{"label": "Richard Burden", 
+		"occurrence": "223"}
+		
+			,
+		
+	
+		{"label": "Matthew Hancock", 
+		"occurrence": "220"}
+		
+			,
+		
+	
+		{"label": "Anas Sarwar", 
+		"occurrence": "208"}
+		
+			,
+		
+	
+		{"label": "Huw Irranca-Davies", 
+		"occurrence": "207"}
+		
+			,
+		
+	
+		{"label": "Caroline Flint", 
+		"occurrence": "205"}
+		
+			,
+		
+	
+		{"label": "Robert Halfon", 
+		"occurrence": "204"}
+		
+			,
+		
+	
+		{"label": "David Lidington", 
+		"occurrence": "198"}
+		
+		
+	],
+
+	"co-occurrences":[
+	
+		{"label": "George Galloway", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "George Galloway", 
+				"occurrence": "971"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "62"} 
+				
+					,
+					
+			
+				{"label": "Altaf Hussain", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Paxman", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Tony Benn", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Brian Wilson (Australian rules footballer)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Al Capone", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "George W. Bush", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Robert Harris (painter)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jim Sillars", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "David Ward (politician)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nigel Evans", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Brian Wilson (Labour politician)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Robert Fisk", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Alan Hansen", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Tom Clarke (politician)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Tom Clarke (musician)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "David Harris (actor)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Anders Fogh Rasmussen", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Philip Larkin", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ronald Reagan", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Bowe Bergdahl", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Richard Shirreff", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Margo MacDonald", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dennis Canavan", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Iain Macwhirter", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Premiership of Margaret Thatcher", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Elizabeth Smith (Scottish politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Shami Chakrabarti", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Douglas Murray (author)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Louis Armstrong", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Eric Cantona", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dr. Evil", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Owen Jones (writer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alan Irvine (footballer born 1958)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jack Straw", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Phil Neville", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rudolf Hess", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Tapsell (British politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Bob Crow", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Che Guevara", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kofi Annan", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "David Cameron", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "David Cameron", 
+				"occurrence": "905"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "118"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "104"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "99"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "94"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "68"} 
+				
+					,
+					
+			
+				{"label": "Angela Merkel", 
+				"occurrence": "48"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "44"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "41"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "34"} 
+				
+					,
+					
+			
+				{"label": "François Hollande", 
+				"occurrence": "34"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "33"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "31"} 
+				
+					,
+					
+			
+				{"label": "Vladimir Putin", 
+				"occurrence": "31"} 
+				
+					,
+					
+			
+				{"label": "George Osborne", 
+				"occurrence": "30"} 
+				
+					,
+					
+			
+				{"label": "Petro Poroshenko", 
+				"occurrence": "28"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "28"} 
+				
+					,
+					
+			
+				{"label": "Fredrik Reinfeldt", 
+				"occurrence": "27"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Mark Rutte", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Li Keqiang", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "José Manuel Barroso", 
+				"occurrence": "23"} 
+				
+					,
+					
+			
+				{"label": "Herman Van Rompuy", 
+				"occurrence": "22"} 
+				
+					,
+					
+			
+				{"label": "Najib Razak", 
+				"occurrence": "22"} 
+				
+					,
+					
+			
+				{"label": "Tristram Hunt", 
+				"occurrence": "22"} 
+				
+					,
+					
+			
+				{"label": "Roger Helmer", 
+				"occurrence": "21"} 
+				
+					,
+					
+			
+				{"label": "Nicola Sturgeon", 
+				"occurrence": "20"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Heywood", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "Ruth Davidson", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "William Hague", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "John Kerry", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Michael Fabricant", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Matteo Renzi", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Andrew Marr", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Rod Liddle", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Patrick Mercer", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Douglas Alexander", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Christine Lagarde", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Maria Miller", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Peter Mandelson", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Grant Shapps", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Carl Bildt", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Gloria De Piero", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Prince Charles, Count of Flanders", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Johann von Lamont", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Bernard Lee", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Willie Rennie", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Oprah Winfrey", 
+				"occurrence": "8"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Barack Obama", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Barack Obama", 
+				"occurrence": "687"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "94"} 
+				
+					,
+					
+			
+				{"label": "Vladimir Putin", 
+				"occurrence": "68"} 
+				
+					,
+					
+			
+				{"label": "Petro Poroshenko", 
+				"occurrence": "57"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "52"} 
+				
+					,
+					
+			
+				{"label": "Bowe Bergdahl", 
+				"occurrence": "50"} 
+				
+					,
+					
+			
+				{"label": "François Hollande", 
+				"occurrence": "42"} 
+				
+					,
+					
+			
+				{"label": "John Kerry", 
+				"occurrence": "38"} 
+				
+					,
+					
+			
+				{"label": "Hillary Rodham Clinton", 
+				"occurrence": "36"} 
+				
+					,
+					
+			
+				{"label": "Angela Merkel", 
+				"occurrence": "35"} 
+				
+					,
+					
+			
+				{"label": "Saddam Hussein", 
+				"occurrence": "29"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "George W. Bush", 
+				"occurrence": "21"} 
+				
+					,
+					
+			
+				{"label": "Nouri al-Maliki", 
+				"occurrence": "20"} 
+				
+					,
+					
+			
+				{"label": "Osama bin Laden", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "John McCain", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Hoshyar Zebari", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Chuck Hagel", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "William Hague", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Tony Abbott", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Bashar al-Assad", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Joe Biden", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "John Kirby (musician)", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "J. K. Rowling", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Qasem Soleimani", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Douglas Alexander", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Abu Bakr", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Mohammed Omar", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Viktor Yanukovych", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Martin Dempsey", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "George Osborne", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Tristram Hunt", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Christopher Meyer", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Adolf Hitler", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Nicola Sturgeon", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Lindsey Graham", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Prince Charles, Count of Flanders", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Presidency of Barack Obama", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Ted Cruz", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Laurent Fabius", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "John Swinney", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Justine Greening", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Mohammad Javad Zarif", 
+				"occurrence": "7"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Roy Hodgson", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Roy Hodgson", 
+				"occurrence": "613"} 
+				
+					,
+					
+			
+				{"label": "Wayne Rooney", 
+				"occurrence": "236"} 
+				
+					,
+					
+			
+				{"label": "Daniel Sturridge", 
+				"occurrence": "179"} 
+				
+					,
+					
+			
+				{"label": "Raheem Sterling", 
+				"occurrence": "176"} 
+				
+					,
+					
+			
+				{"label": "Steven Gerrard", 
+				"occurrence": "161"} 
+				
+					,
+					
+			
+				{"label": "Ross Barkley", 
+				"occurrence": "114"} 
+				
+					,
+					
+			
+				{"label": "Danny Welbeck", 
+				"occurrence": "108"} 
+				
+					,
+					
+			
+				{"label": "Alex Oxlade-Chamberlain", 
+				"occurrence": "88"} 
+				
+					,
+					
+			
+				{"label": "Leighton Baines", 
+				"occurrence": "67"} 
+				
+					,
+					
+			
+				{"label": "Adam Lallana", 
+				"occurrence": "59"} 
+				
+					,
+					
+			
+				{"label": "Jack Wilshere", 
+				"occurrence": "57"} 
+				
+					,
+					
+			
+				{"label": "Joe Hart", 
+				"occurrence": "56"} 
+				
+					,
+					
+			
+				{"label": "Jordan Henderson", 
+				"occurrence": "55"} 
+				
+					,
+					
+			
+				{"label": "Andrea Pirlo", 
+				"occurrence": "55"} 
+				
+					,
+					
+			
+				{"label": "Cesare Prandelli", 
+				"occurrence": "51"} 
+				
+					,
+					
+			
+				{"label": "Phil Jagielka", 
+				"occurrence": "50"} 
+				
+					,
+					
+			
+				{"label": "Gary Cahill", 
+				"occurrence": "48"} 
+				
+					,
+					
+			
+				{"label": "Luke Shaw", 
+				"occurrence": "47"} 
+				
+					,
+					
+			
+				{"label": "Edinson Cavani", 
+				"occurrence": "43"} 
+				
+					,
+					
+			
+				{"label": "Rickie Lambert", 
+				"occurrence": "42"} 
+				
+					,
+					
+			
+				{"label": "Fabio Capello", 
+				"occurrence": "39"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard", 
+				"occurrence": "38"} 
+				
+					,
+					
+			
+				{"label": "Mario Balotelli", 
+				"occurrence": "37"} 
+				
+					,
+					
+			
+				{"label": "Paul Scholes", 
+				"occurrence": "34"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard, Sr.", 
+				"occurrence": "30"} 
+				
+					,
+					
+			
+				{"label": "Gary Lineker", 
+				"occurrence": "27"} 
+				
+					,
+					
+			
+				{"label": "Martin Lipton", 
+				"occurrence": "27"} 
+				
+					,
+					
+			
+				{"label": "Ashley Cole", 
+				"occurrence": "27"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (Canadian soccer)", 
+				"occurrence": "27"} 
+				
+					,
+					
+			
+				{"label": "Gary Neville", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Rio Ferdinand", 
+				"occurrence": "23"} 
+				
+					,
+					
+			
+				{"label": "Cristiano Ronaldo", 
+				"occurrence": "21"} 
+				
+					,
+					
+			
+				{"label": "Alan Shearer", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "Greg Dyke", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "Claudio Marchisio", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "Lionel Messi", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Óscar Tabárez", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "David Beckham", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Antonio Valencia", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Chris Smalling", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Jon Flanagan", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Brendan Rodgers", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "John Cross (rugby league)", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "David Moyes", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (boxer)", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Gianluigi Buffon", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Fernando Muslera", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "John Terry", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Bobby Robson", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Thierry Henry", 
+				"occurrence": "12"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Karl McCartney", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Karl McCartney", 
+				"occurrence": "629"} 
+				
+					,
+					
+			
+				{"label": "Stephen Hammond", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Phil Neville", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Francis Maude", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Chris Grayling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Terry Smith (guitarist)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Keith Park", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Hazel Blears", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Philip Hammond", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Patrick McLoughlin", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Union Jack (comics)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Dugher", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "George Foreman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Paul Newman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sepp Blatter", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Walther von Brauchitsch", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alan Partridge", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Danny Alexander", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Robert Rogers (Manitoba politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Albus Dumbledore", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Harry Potter (character)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gary Neville", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Conor Burns", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Schumacher", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Justin Welby", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Patrick Cormack, Baron Cormack", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tony Baldry", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Howard (historian)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Vincent van Gogh", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Harriet Harman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Matthew Parris", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Susan Kramer", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Julian Huppert", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Julian Huppert", 
+				"occurrence": "600"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Chris Grayling", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "David Tredinnick (politician)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Liam Fox", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jenny Willott", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nick de Bois", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Andy Slaughter", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Steve Webb", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Douglas Carswell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Arnold Schwarzenegger", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Zac Goldsmith", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kate Hoey", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gray Davis", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Frank Field (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jimmy Wales", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Liam Byrne", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Colin Blakemore", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tim Farron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jo Swinson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alan Beith", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Corbyn", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Paul Flynn (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Caroline Lucas", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Tapsell (British politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sarah Wollaston", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Margaret Hodge", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Robert Goodwill", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rachel Reeves", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Swinney", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Liz Fraser", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Adrian Sanders", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (cyclist)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Gauke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andy Coulson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rebekah Brooks", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Michael Fabricant", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Michael Fabricant", 
+				"occurrence": "577"} 
+				
+					,
+					
+			
+				{"label": "Rod Liddle", 
+				"occurrence": "25"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Maria Miller", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Gloria De Piero", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "John Bercow", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Francis Urquhart", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Angela Eagle", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Rupert Murdoch", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Juan Carlos I of Spain", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Edward VII", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "James II of England", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Edward VIII", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "James VI and I", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Henry (VII) of Germany", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gerald Kaufman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Robert Pattinson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Harry Enfield", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ben Whishaw", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Enoch Powell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Spike Milligan", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "The Krankies", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Hugh Grant", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Matt Baker (television presenter)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Barbie", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "George Thomas, 1st Viscount Tonypandy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Aidan Burley", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Foot", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Harry Potter (character)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rebekah Brooks", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sandi Toksvig", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Angus MacNeil", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Angus MacNeil", 
+				"occurrence": "586"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "John Steinbeck", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Kevin McKenna (basketball)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Paxman", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Danny Alexander", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "John F. Kennedy", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "George Mudie", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Hillary Rodham Clinton", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Gary Robertson (rower)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Lembit Öpik", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chris Huhne", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Charlie Brown (Australian footballer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Penny Mordaunt", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Hancock", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Malcolm Bruce", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ruth Davidson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (Australian politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Laurent Fabius", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ronny Deila", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Greg Hemphill", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chester W. Nimitz", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nicola Sturgeon", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alistair Carmichael", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Pep Guardiola", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kay Burley", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jim Shannon", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Henry McLeish", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "J. K. Rowling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Harry Potter (character)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jim Murphy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michelle Obama", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Neil Lennon", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alan Shearer", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dennis Dawson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andrew Marr", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Cressida Dick", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Tapsell (British politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dick Cheney", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Stella Creasy", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Stella Creasy", 
+				"occurrence": "568"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Douglas Alexander", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jonathan Pearce", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Matt Busby", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chuka Umunna", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jenny Willott", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Annette Brooke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Katherine Grainger", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Fiona Phillips", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "William Taylor (man of letters)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tony Benn", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Simon Cowell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Terry (actor)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Grayson Perry", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Antony Gormley", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Monty Don", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kray twins", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tom Hardy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Bill Morris, Baron Morris of Handsworth", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Stephen Fry", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Paul Chambers", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Graham Linehan", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Keir Starmer", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Allen Green", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Al Murray", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Linda Lovelace", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Fabrice Muamba", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Richard Allan, Baron Allan of Hallam", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dawn Primarolo", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alan Bennett", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Terrence Malick", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Piers Morgan", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jerry Springer", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Steve Baker (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chris de Burgh", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sepp Blatter", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Phil Neville", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Martin Keown", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chrissie Hynde", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Osvaldo Ardiles", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mary Berry (food writer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sharon Van Etten", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Monty Python", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Jamie Reed", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Jamie Reed", 
+				"occurrence": "531"} 
+				
+					,
+					
+			
+				{"label": "Jamie Reed (footballer)", 
+				"occurrence": "48"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (cyclist)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Greg Hands", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (politician)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Kenneth Clarke", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Andy Burnham", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jane Ellison", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Greg Dyke", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "John Sentamu", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Lenny Henry", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Taylor (singer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chris Grayling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andrew Lansley", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Annette Brooke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gerald Howarth", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gavin Williamson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jon Pertwee", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Lester Abrams", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Owen", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kenneth Williams", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Graham Norton", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (Australian politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Caine", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andy Murray (ice hockey)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Adolf Hitler", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jack Whitehall", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jim Mackey", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Cliff Richard", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "J. K. Rowling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Pamela Nash", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ian Lavery", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Lammy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "George Eustice", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Premiership of Margaret Thatcher", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mark Lawrenson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Vicente del Bosque", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tom Clarke (musician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dr. Watson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sarah Wollaston", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jim Shannon", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Boo Cook", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Glenn Hoddle", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Ed Miliband", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "526"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "118"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "69"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "46"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "30"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "23"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "20"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Peter Hain", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Neil Kinnock", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Peter Mandelson", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Greg Hands", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Joe Anderson (politician)", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Steve Rotheram", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "George Osborne", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "William Hague", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Grant Shapps", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Charles, Prince of Wales", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "John Prescott", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "David Blunkett", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Rupert Murdoch", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Ruth Davidson", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Mark Pritchard (politician)", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Andy Burnham", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Roger Helmer", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Johann von Lamont", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Karl McCartney", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Bertie Ahern", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Angela Merkel", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Rachel Reeves", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "David Miliband", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Peter Kellner", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Douglas Alexander", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Vince Cable", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Jamie Reed", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Jim Murphy", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Dan Byles", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Stewart Jackson", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Tony Abbott", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Andrew Marr", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Alec Shelbrooke", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Willie Rennie", 
+				"occurrence": "5"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Karl Turner (politician)", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Karl Turner (politician)", 
+				"occurrence": "465"} 
+				
+					,
+					
+			
+				{"label": "Chris Grayling", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jimmy Savile", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "James White (Scottish footballer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Cyril Smith (actor)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Conor Burns", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andrew Marvell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "J. K. Rowling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Daniel Sturridge", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Davies", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tony Benn", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Lenny Henry", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sara Lee (musician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Harrison Ford (silent film actor)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andy Burnham", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Heseltine", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Shailesh Vara", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rupert Murdoch", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Wayne Rooney", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Wayne Rooney", 
+				"occurrence": "426"} 
+				
+					,
+					
+			
+				{"label": "Roy Hodgson", 
+				"occurrence": "236"} 
+				
+					,
+					
+			
+				{"label": "Daniel Sturridge", 
+				"occurrence": "164"} 
+				
+					,
+					
+			
+				{"label": "Raheem Sterling", 
+				"occurrence": "161"} 
+				
+					,
+					
+			
+				{"label": "Steven Gerrard", 
+				"occurrence": "132"} 
+				
+					,
+					
+			
+				{"label": "Danny Welbeck", 
+				"occurrence": "104"} 
+				
+					,
+					
+			
+				{"label": "Ross Barkley", 
+				"occurrence": "92"} 
+				
+					,
+					
+			
+				{"label": "Leighton Baines", 
+				"occurrence": "53"} 
+				
+					,
+					
+			
+				{"label": "Alex Oxlade-Chamberlain", 
+				"occurrence": "52"} 
+				
+					,
+					
+			
+				{"label": "Adam Lallana", 
+				"occurrence": "51"} 
+				
+					,
+					
+			
+				{"label": "Rickie Lambert", 
+				"occurrence": "48"} 
+				
+					,
+					
+			
+				{"label": "Joe Hart", 
+				"occurrence": "46"} 
+				
+					,
+					
+			
+				{"label": "Jordan Henderson", 
+				"occurrence": "44"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard", 
+				"occurrence": "43"} 
+				
+					,
+					
+			
+				{"label": "Andrea Pirlo", 
+				"occurrence": "43"} 
+				
+					,
+					
+			
+				{"label": "Jack Wilshere", 
+				"occurrence": "38"} 
+				
+					,
+					
+			
+				{"label": "Edinson Cavani", 
+				"occurrence": "38"} 
+				
+					,
+					
+			
+				{"label": "Phil Jagielka", 
+				"occurrence": "36"} 
+				
+					,
+					
+			
+				{"label": "Paul Scholes", 
+				"occurrence": "35"} 
+				
+					,
+					
+			
+				{"label": "Luke Shaw", 
+				"occurrence": "33"} 
+				
+					,
+					
+			
+				{"label": "Gary Cahill", 
+				"occurrence": "33"} 
+				
+					,
+					
+			
+				{"label": "Cesare Prandelli", 
+				"occurrence": "27"} 
+				
+					,
+					
+			
+				{"label": "Cristiano Ronaldo", 
+				"occurrence": "25"} 
+				
+					,
+					
+			
+				{"label": "Gary Lineker", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Mario Balotelli", 
+				"occurrence": "23"} 
+				
+					,
+					
+			
+				{"label": "Antonio Valencia", 
+				"occurrence": "20"} 
+				
+					,
+					
+			
+				{"label": "Claudio Marchisio", 
+				"occurrence": "20"} 
+				
+					,
+					
+			
+				{"label": "Martin Lipton", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "Ashley Cole", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "Alan Shearer", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard, Sr.", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (Canadian soccer)", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Rio Ferdinand", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Fabio Capello", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Lionel Messi", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "David Moyes", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "David Beckham", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Fernando Muslera", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Gary Neville", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (boxer)", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Óscar Tabárez", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "John Terry", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Chris Smalling", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Emma Willis", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Robin van Persie", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Phil Neville", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Salvatore Sirigu", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Michael Owen (rugby player)", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Alex Ferguson", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Antonio Candreva", 
+				"occurrence": "11"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Greg Mulholland", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Greg Mulholland", 
+				"occurrence": "433"} 
+				
+					,
+					
+			
+				{"label": "Phil Bentham", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Maximiliano Pereira", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alan Shearer", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dan Cullen", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kevin Sinfield", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gareth Bale", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Steve Peat", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Alex Salmond", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "402"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "71"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "68"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "52"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "38"} 
+				
+					,
+					
+			
+				{"label": "Ruth Davidson", 
+				"occurrence": "33"} 
+				
+					,
+					
+			
+				{"label": "Nicola Sturgeon", 
+				"occurrence": "30"} 
+				
+					,
+					
+			
+				{"label": "John Swinney", 
+				"occurrence": "29"} 
+				
+					,
+					
+			
+				{"label": "Johann von Lamont", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Kim Jong-il", 
+				"occurrence": "23"} 
+				
+					,
+					
+			
+				{"label": "Willie Rennie", 
+				"occurrence": "22"} 
+				
+					,
+					
+			
+				{"label": "Danny Alexander", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "J. K. Rowling", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Andy Murray (ice hockey)", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "George Osborne", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Harry Potter (character)", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Hillary Rodham Clinton", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Vladimir Putin", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Margaret Curran", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Donald Dewar", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Christopher Meyer", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Anas Sarwar", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Andrew Marr", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Lindsay Roy", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Anne McGuire", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Alistair Carmichael", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Jim Murphy", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Murdo Fraser", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Angus MacNeil", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Douglas Alexander", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Leslie Young", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Jackie Baillie", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "John Curtice", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Paul Joseph James Martin", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Mark Carney", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Owen Paterson", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Kenneth Gibson (Scottish politician)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "David Torrance (politician)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Allan Massie", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Alastair Campbell", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Jason Cowley", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Pete Wishart", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Angus Robertson", 
+				"occurrence": "4"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Andrew Gwynne", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Andrew Gwynne", 
+				"occurrence": "370"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (cyclist)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dan Jarvis", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Robbie Williams (footballer born 1979)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mark the Evangelist", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jackie Lane (actress)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tom Brake", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andy Burnham", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sergio Agüero", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Geoff Hurst", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Blunkett", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Ashcroft, Baron Ashcroft", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Esther McVey", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (politician)", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Tony Blair", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Tony Blair", 
+				"occurrence": "366"} 
+				
+					,
+					
+			
+				{"label": "George Galloway", 
+				"occurrence": "62"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "46"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "41"} 
+				
+					,
+					
+			
+				{"label": "George W. Bush", 
+				"occurrence": "30"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "25"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "21"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Peter Mandelson", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Saddam Hussein", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "John Kerry", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Andrew Marr", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Jonathan Edwards (Welsh politician)", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Douglas Alexander", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Robert Harris (painter)", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Peter Hain", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Christopher Meyer", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Neil Kinnock", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Douglas Carswell", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "William Hague", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Peter Tapsell (British politician)", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Herman Van Rompuy", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Ghost (Nedor Comics)", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Bertie Ahern", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "John Major", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Angus Robertson", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Warren Gatland", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Maggie Smith", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Cerys Matthews", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Hilary Mantel", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Eliza Carthy", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Mohammad Javad Zarif", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Anjem Choudary", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Dennis Canavan", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Hillary Rodham Clinton", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Theresa Villiers", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Paul Flynn (politician)", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (politician)", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Elizabeth Filkin", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Angelina Jolie", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Angus MacNeil", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "John Prescott", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Ian Austin (politician)", 
+				"occurrence": "4"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Simon Danczuk", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Simon Danczuk", 
+				"occurrence": "369"} 
+				
+					,
+					
+			
+				{"label": "Jim Dobbin", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Cyril Smith", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Cyril Smith (actor)", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Zac Goldsmith", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Paul Martin (Scottish footballer)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "David Blunkett", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Kevin Taylor (Australian footballer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Russ Jackson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Penny Mordaunt", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chris Huhne", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Matt Baker (television presenter)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Iain Duncan Smith", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mike Sweeney", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mahmud of Ghazni", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tim Loughton", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Caroline Lucas", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Duncan Hames", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tessa Munt", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Hemming (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Simon Marsh", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Michael Gove", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Michael Gove", 
+				"occurrence": "352"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "99"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "36"} 
+				
+					,
+					
+			
+				{"label": "Tristram Hunt", 
+				"occurrence": "29"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "23"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "22"} 
+				
+					,
+					
+			
+				{"label": "Peter Clarke (police officer)", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "George Osborne", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Liam Byrne", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Heywood", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Andrew Marr", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Salma Yaqoob", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (politician)", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Eric Pickles", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Keith Vaz", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Grant Shapps", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "George Galloway", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Wayne Rooney", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Simon Cowell", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Alesha Dixon", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "William Hague", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "David Hughes (footballer born 1978)", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Crispin Blunt", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Andrew Lansley", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Kevin Brennan (politician)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "John Prescott", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Peter Shilton", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Paul Pogba", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Cyril Smith (actor)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "John Bercow", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "David Laws", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Karl Turner (politician)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Khalid Mahmood", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Vince Cable", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Peter Mandelson", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Diana Johnson", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Chris Grayling", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Anthony Horowitz", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "David Hanson (politician)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Elizabeth Truss", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Bill Esterson", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Jack Dromey", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Sayeeda Warsi, Baroness Warsi", 
+				"occurrence": "3"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Jonathan Edwards (Welsh politician)", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Jonathan Edwards (Welsh politician)", 
+				"occurrence": "361"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Peter Tapsell (British politician)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Philip, Duke of Parma", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Elfyn Llwyd", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Justin Burnell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Owen Smith", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Carwyn Jones", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Hywel Williams", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kevin McKenna (basketball)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Henry McLeish", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Leanne Wood", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Colin Powell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Vince Cable", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Angela Eagle", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Mitchell (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jonathan Edwards (athlete)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Boehner", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Pat Kelly (musician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John C. Major", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Major", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Paxman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Natasha Harding", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mike Lewis (musician)", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Diana Johnson", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Diana Johnson", 
+				"occurrence": "350"} 
+				
+					,
+					
+			
+				{"label": "Jacob Rees-Mogg", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Dawn Primarolo", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Annette Brooke", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Roger Helmer", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kenneth Clarke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jimmy Savile", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Edwina Currie", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sarah Lancashire", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Hazel Blears", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Paul Goggins", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gerald Howarth", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alan Bennett", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dennis Skinner", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gerald Kaufman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Monty Python", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Helen Grant (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Steve Brady", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Blunkett", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Menzies Campbell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Robert Rogers (Manitoba politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Heseltine", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alex Carlile, Baron Carlile of Berriew", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alan Turing", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Keith Vaz", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Mike Gapes", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Mike Gapes", 
+				"occurrence": "349"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Peter Kellner", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (cyclist)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Saddam Hussein", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Graham Stringer", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Frank McAvennie", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Annette Brooke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Greg Hands", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Hazel Blears", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Edward Davey", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mushtaq Ahmed", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Eric Pickles", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Harry Potter (character)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Claire Perry", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Martin Bell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Geoff Hurst", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Bryan Ruiz", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Little Tony (singer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Blunkett", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Lionel Messi", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Islam Slimani", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Andy Slaughter", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Andy Slaughter", 
+				"occurrence": "337"} 
+				
+					,
+					
+			
+				{"label": "Chris Grayling", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (cyclist)", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Greg Hands", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nick de Bois", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Julian Huppert", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Myles Coverdale", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Kenneth Clarke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Watts (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Aidan Burley", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jenny Tonge, Baroness Tonge", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andrew Dismore", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Bill Hicks", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Joe Pasquale", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Bryan Ruiz", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Steve Cowan", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Grant Shapps", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andy Burnham", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "George Freeman (politician)", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "George Freeman (politician)", 
+				"occurrence": "333"} 
+				
+					,
+					
+			
+				{"label": "George Freeman (comics)", 
+				"occurrence": "153"} 
+				
+					,
+					
+			
+				{"label": "George Freeman (cricketer)", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Prince William Henry, Duke of Gloucester and Edinburgh", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nicholas Soames", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mary (mother of Jesus)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Robert Kendrick", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "William Nicholson (artist)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "William Nicholson (naval officer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mike Harris (comics)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Winston Churchill", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Norman Tebbit", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Snagge", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jim Martin (puppeteer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "J. D. Salinger", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Benedict Cumberbatch", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Una Stubbs", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Neil Kinnock", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Paul Myners, Baron Myners", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Lefroy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andy Murray (ice hockey)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Palin", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (politician)", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Rob Wilson", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Rob Wilson", 
+				"occurrence": "333"} 
+				
+					,
+					
+			
+				{"label": "Peter Kellner", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (cyclist)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Peter V. Brett", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jimmy Savile", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Marcus Tullius Cicero (Rome character)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andy Townsend", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Muhammad Saeed al-Sahhaf", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Union Jack (comics)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Christine Lagarde", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andy Burnham", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (Australian politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tony Adams (American football)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Charles Scott (governor)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Maurice Ravel", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Carlton Palmer", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Mandelson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Pat Jennings, Jr.", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mario Balotelli", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mahmud of Ghazni", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Jason McCartney (politician)", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Jason McCartney (politician)", 
+				"occurrence": "329"} 
+				
+					,
+					
+			
+				{"label": "Jason McCartney (footballer)", 
+				"occurrence": "233"} 
+				
+					,
+					
+			
+				{"label": "Dean Hoyle", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Angelina Jolie", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Trevor Arthur Smith, Baron Smith of Clifton", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Steve Thompson (footballer born 1955)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Brian Robinson (cyclist)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rosemary Murphy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Brown (musician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Oz Clarke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Barry Sheerman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Craig Whittaker", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Paxman", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Michael Dugher", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Michael Dugher", 
+				"occurrence": "307"} 
+				
+					,
+					
+			
+				{"label": "Feargal Sharkey", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Heywood", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Paul McCartney", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Sepp Blatter", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Grant Shapps", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Greg Hands", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Karl McCartney", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Eric Pickles", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alex Cunningham", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dawn Primarolo", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John F. Kennedy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Bobby Moore", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Stuart Pearce", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Brian Elliott", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Bernard Lee", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Carwyn Jones", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (cyclist)", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Daniel Sturridge", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Daniel Sturridge", 
+				"occurrence": "302"} 
+				
+					,
+					
+			
+				{"label": "Roy Hodgson", 
+				"occurrence": "179"} 
+				
+					,
+					
+			
+				{"label": "Wayne Rooney", 
+				"occurrence": "164"} 
+				
+					,
+					
+			
+				{"label": "Raheem Sterling", 
+				"occurrence": "145"} 
+				
+					,
+					
+			
+				{"label": "Danny Welbeck", 
+				"occurrence": "113"} 
+				
+					,
+					
+			
+				{"label": "Steven Gerrard", 
+				"occurrence": "106"} 
+				
+					,
+					
+			
+				{"label": "Ross Barkley", 
+				"occurrence": "77"} 
+				
+					,
+					
+			
+				{"label": "Adam Lallana", 
+				"occurrence": "50"} 
+				
+					,
+					
+			
+				{"label": "Leighton Baines", 
+				"occurrence": "49"} 
+				
+					,
+					
+			
+				{"label": "Alex Oxlade-Chamberlain", 
+				"occurrence": "48"} 
+				
+					,
+					
+			
+				{"label": "Jordan Henderson", 
+				"occurrence": "44"} 
+				
+					,
+					
+			
+				{"label": "Claudio Marchisio", 
+				"occurrence": "37"} 
+				
+					,
+					
+			
+				{"label": "Joe Hart", 
+				"occurrence": "35"} 
+				
+					,
+					
+			
+				{"label": "Phil Jagielka", 
+				"occurrence": "33"} 
+				
+					,
+					
+			
+				{"label": "Jack Wilshere", 
+				"occurrence": "31"} 
+				
+					,
+					
+			
+				{"label": "Andrea Pirlo", 
+				"occurrence": "30"} 
+				
+					,
+					
+			
+				{"label": "Edinson Cavani", 
+				"occurrence": "29"} 
+				
+					,
+					
+			
+				{"label": "Gary Cahill", 
+				"occurrence": "28"} 
+				
+					,
+					
+			
+				{"label": "Mario Balotelli", 
+				"occurrence": "26"} 
+				
+					,
+					
+			
+				{"label": "Rickie Lambert", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Cesare Prandelli", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard", 
+				"occurrence": "22"} 
+				
+					,
+					
+			
+				{"label": "Martin Lipton", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "Luke Shaw", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (Canadian soccer)", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Gary Lineker", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Paul Scholes", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Alan Shearer", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Cristiano Ronaldo", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (boxer)", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Óscar Tabárez", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Brendan Rodgers", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Emilio Izaguirre", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Brayan Beckeles", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Gary Neville", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Lionel Messi", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard, Sr.", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Ashley Cole", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Fabio Capello", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Salvatore Sirigu", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Michael Owen (rugby player)", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Antonio Valencia", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Robin van Persie", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Antonio Candreva", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Rio Ferdinand", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Greg Dyke", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Matteo Darmian", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Fernando Muslera", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Fraser Forster", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Ray Lewington", 
+				"occurrence": "7"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Anne McGuire", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Anne McGuire", 
+				"occurrence": "303"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "J. K. Rowling", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (Australian politician)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Andy Murray (ice hockey)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Hillary Rodham Clinton", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Willie Rennie", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Alex Neil (politician)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "John Gordon Sinclair", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Johann von Lamont", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Union Jack (comics)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Stirling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alistair Carmichael", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Amélie Mauresmo", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Margaret Hodge", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Stephen Timms", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Anne, Princess Royal", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Pope John XXII", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dave Thompson (radio host)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Elizabeth II", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dunblane school massacre", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alex Johnstone", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jim Murphy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Alex Neil (footballer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Brian Wilson (Australian rules footballer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mike Penning", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Robert the Bruce", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Tom Brake", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Tom Brake", 
+				"occurrence": "297"} 
+				
+					,
+					
+			
+				{"label": "Annette Brooke", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "David Weir (writer)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Penny Mordaunt", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andrew Gwynne", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Justin Welby", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "The Rev", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Paxman", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Steven Gerrard", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Steven Gerrard", 
+				"occurrence": "291"} 
+				
+					,
+					
+			
+				{"label": "Roy Hodgson", 
+				"occurrence": "161"} 
+				
+					,
+					
+			
+				{"label": "Wayne Rooney", 
+				"occurrence": "132"} 
+				
+					,
+					
+			
+				{"label": "Daniel Sturridge", 
+				"occurrence": "106"} 
+				
+					,
+					
+			
+				{"label": "Raheem Sterling", 
+				"occurrence": "93"} 
+				
+					,
+					
+			
+				{"label": "Ross Barkley", 
+				"occurrence": "61"} 
+				
+					,
+					
+			
+				{"label": "Danny Welbeck", 
+				"occurrence": "53"} 
+				
+					,
+					
+			
+				{"label": "Jordan Henderson", 
+				"occurrence": "50"} 
+				
+					,
+					
+			
+				{"label": "Joe Hart", 
+				"occurrence": "49"} 
+				
+					,
+					
+			
+				{"label": "Phil Jagielka", 
+				"occurrence": "43"} 
+				
+					,
+					
+			
+				{"label": "Alex Oxlade-Chamberlain", 
+				"occurrence": "40"} 
+				
+					,
+					
+			
+				{"label": "Leighton Baines", 
+				"occurrence": "40"} 
+				
+					,
+					
+			
+				{"label": "Adam Lallana", 
+				"occurrence": "35"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard", 
+				"occurrence": "35"} 
+				
+					,
+					
+			
+				{"label": "Edinson Cavani", 
+				"occurrence": "34"} 
+				
+					,
+					
+			
+				{"label": "Jack Wilshere", 
+				"occurrence": "33"} 
+				
+					,
+					
+			
+				{"label": "Andrea Pirlo", 
+				"occurrence": "30"} 
+				
+					,
+					
+			
+				{"label": "Gary Cahill", 
+				"occurrence": "27"} 
+				
+					,
+					
+			
+				{"label": "Rickie Lambert", 
+				"occurrence": "25"} 
+				
+					,
+					
+			
+				{"label": "Cesare Prandelli", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Luke Shaw", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (Canadian soccer)", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (boxer)", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Claudio Marchisio", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Fernando Muslera", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Brendan Rodgers", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Fabio Capello", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Ashley Cole", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard, Sr.", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Mario Balotelli", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Óscar Tabárez", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Martin Lipton", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Cristiano Ronaldo", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Gary Lineker", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Gary Neville", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Brayan Beckeles", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "David Beckham", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Jon Flanagan", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Rio Ferdinand", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Emilio Izaguirre", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "John Cross (rugby league)", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Lionel Messi", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Robin van Persie", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Alan Shearer", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Mauricio Pochettino", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Paul Scholes", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "John Stones", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Michael Owen (rugby player)", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Greg Dyke", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Oliver Holt", 
+				"occurrence": "6"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Nick Clegg", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "286"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "104"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "69"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "36"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "29"} 
+				
+					,
+					
+			
+				{"label": "Vince Cable", 
+				"occurrence": "26"} 
+				
+					,
+					
+			
+				{"label": "Boris Johnson", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "George Osborne", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Roger Helmer", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Joe Anderson (politician)", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Matthew Oakeshott, Baron Oakeshott of Seagrove Bay", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Steve Rotheram", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Julian Huppert", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "William Hague", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Angela Merkel", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Eric Pickles", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Francis Maude", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Zac Goldsmith", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Rupert Murdoch", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Douglas Carswell", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Patrick Mercer", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Bernard Lee", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Prince William Henry, Duke of Gloucester and Edinburgh", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Danny Alexander", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Tony Abbott", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Charles, Prince of Wales", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Winston Churchill", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Dalai Lama", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Li Keqiang", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Napoleon III", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Ruth Davidson", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Steve Webb", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Grant Shapps", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Harriet Harman", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Vladimir Putin", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Heywood", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "John Prescott", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Saddam Hussein", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Bob Neill", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Nicola Sturgeon", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Peter Mandelson", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (politician)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Elizabeth II", 
+				"occurrence": "3"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Tom Blenkinsop", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Tom Blenkinsop", 
+				"occurrence": "291"} 
+				
+					,
+					
+			
+				{"label": "Gavin Williamson", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Greg Hands", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Andy Coulson", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Roger Helmer", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Queen (Snow White)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "James Hume Cook", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Stanley Hollis", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (Australian politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Cliff Richard", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Damian Green", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Philip Hammond", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Norman Lamb", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Wilf Mannion", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Louis van Gaal", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Matt Jordan", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Edward Davey", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Susan Jones", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Hogan (snooker player)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kris Hopkins", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Raheem Sterling", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Raheem Sterling", 
+				"occurrence": "274"} 
+				
+					,
+					
+			
+				{"label": "Roy Hodgson", 
+				"occurrence": "176"} 
+				
+					,
+					
+			
+				{"label": "Wayne Rooney", 
+				"occurrence": "161"} 
+				
+					,
+					
+			
+				{"label": "Daniel Sturridge", 
+				"occurrence": "145"} 
+				
+					,
+					
+			
+				{"label": "Ross Barkley", 
+				"occurrence": "109"} 
+				
+					,
+					
+			
+				{"label": "Danny Welbeck", 
+				"occurrence": "108"} 
+				
+					,
+					
+			
+				{"label": "Steven Gerrard", 
+				"occurrence": "93"} 
+				
+					,
+					
+			
+				{"label": "Alex Oxlade-Chamberlain", 
+				"occurrence": "69"} 
+				
+					,
+					
+			
+				{"label": "Adam Lallana", 
+				"occurrence": "63"} 
+				
+					,
+					
+			
+				{"label": "Jordan Henderson", 
+				"occurrence": "48"} 
+				
+					,
+					
+			
+				{"label": "Luke Shaw", 
+				"occurrence": "45"} 
+				
+					,
+					
+			
+				{"label": "Leighton Baines", 
+				"occurrence": "44"} 
+				
+					,
+					
+			
+				{"label": "Jack Wilshere", 
+				"occurrence": "39"} 
+				
+					,
+					
+			
+				{"label": "Rickie Lambert", 
+				"occurrence": "39"} 
+				
+					,
+					
+			
+				{"label": "Andrea Pirlo", 
+				"occurrence": "34"} 
+				
+					,
+					
+			
+				{"label": "Phil Jagielka", 
+				"occurrence": "31"} 
+				
+					,
+					
+			
+				{"label": "Gary Cahill", 
+				"occurrence": "27"} 
+				
+					,
+					
+			
+				{"label": "Joe Hart", 
+				"occurrence": "26"} 
+				
+					,
+					
+			
+				{"label": "Antonio Valencia", 
+				"occurrence": "24"} 
+				
+					,
+					
+			
+				{"label": "Edinson Cavani", 
+				"occurrence": "23"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard", 
+				"occurrence": "21"} 
+				
+					,
+					
+			
+				{"label": "Cesare Prandelli", 
+				"occurrence": "21"} 
+				
+					,
+					
+			
+				{"label": "Martin Lipton", 
+				"occurrence": "20"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (Canadian soccer)", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "Claudio Marchisio", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Paul Scholes", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Gary Lineker", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Cristiano Ronaldo", 
+				"occurrence": "15"} 
+				
+					,
+					
+			
+				{"label": "Fabio Capello", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Gary Neville", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Chris Smalling", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Ashley Cole", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Frank Lampard, Sr.", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Jon Flanagan", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Phil Jones (footballer)", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Mario Balotelli", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Óscar Tabárez", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Alan Shearer", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "John Stones", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Gianluigi Buffon", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Lionel Messi", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Rio Ferdinand", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Salvatore Sirigu", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Michael Owen (rugby player)", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Oliver Holt", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "John Cross (rugby league)", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Glen Johnson (boxer)", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "David Beckham", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Brendan Rodgers", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Glenn Hoddle", 
+				"occurrence": "8"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Pete Wishart", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Pete Wishart", 
+				"occurrence": "270"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Kim Jong-il", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Danny Alexander", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nicola Sturgeon", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Douglas Alexander", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Coburn", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Stewart Hosie", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tim Booth", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andrew Neil", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Pamela Nash", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "J. K. Rowling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jim Murphy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Herman Van Rompuy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Tapsell (British politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Angela Eagle", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Roy Hodgson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Maria Miller", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rachel Reeves", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Margaret Curran", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Chuka Umunna", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Chuka Umunna", 
+				"occurrence": "265"} 
+				
+					,
+					
+			
+				{"label": "Jonathan Reynolds", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Michael Heseltine", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Gordon Marsden", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Biz Stone", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Edwina Hart", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Sam King", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "James Brown (actor)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Lenny Henry", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Yvette Cooper", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Douglas Alexander", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Stella Creasy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Caroline Flint", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rachel Portman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Daniel Pauly", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chris Leslie (folk musician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kenneth Branagh", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Thomas Heatherwick", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Frank Cottrell Boyce", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Evelyn Glennie", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rosie Gaines", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Martin Sorrell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dan Jarvis", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Paxman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jane Hutt", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Blunkett", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "James Brown", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dave Ward (reporter)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Debbie Abrahams", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Manners, 7th Duke of Rutland", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Iain Duncan Smith", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rachel Reeves", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Miliband", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Neil Kinnock", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tristram Hunt", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Kellner", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Douglas Carswell", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Douglas Carswell", 
+				"occurrence": "272"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Vince Cable", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Zac Goldsmith", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Cowards", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Martin Sorrell", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "George Clooney", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Danny Alexander", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "José Manuel Barroso", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "H. H. Asquith", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Steve Webb", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Shami Chakrabarti", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michel Rocard", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chris Grayling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Arnold Schwarzenegger", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kate Hoey", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Julian Huppert", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gray Davis", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Frank Field (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Heywood", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Humphrey Appleby", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Steve Ritchie", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Mandelson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sajjad Karim", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dominic Raab", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sepp Blatter", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Fiona Carter", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Beppe Grillo", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jean-Claude Juncker", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mervyn King (economist)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sarah Wollaston", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rod Liddle", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Edward Davey", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Blunkett", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Radosław Sikorski", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Herman Van Rompuy", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Petro Poroshenko", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Petro Poroshenko", 
+				"occurrence": "242"} 
+				
+					,
+					
+			
+				{"label": "Vladimir Putin", 
+				"occurrence": "92"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "57"} 
+				
+					,
+					
+			
+				{"label": "Viktor Yanukovych", 
+				"occurrence": "40"} 
+				
+					,
+					
+			
+				{"label": "Angela Merkel", 
+				"occurrence": "40"} 
+				
+					,
+					
+			
+				{"label": "François Hollande", 
+				"occurrence": "30"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "28"} 
+				
+					,
+					
+			
+				{"label": "Arsen Avakov", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Sergey Lavrov", 
+				"occurrence": "16"} 
+				
+					,
+					
+			
+				{"label": "Herman Van Rompuy", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Anders Fogh Rasmussen", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Joe Biden", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Bronisław Komorowski", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Yulia Tymoshenko", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Arseniy Yatsenyuk", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Bashar al-Assad", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Oleksandr Turchynov", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Dalia Grybauskaitė", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Alexander Lukashenko", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "John Kerry", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Igor Strelkov", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Prince Charles, Count of Flanders", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Pavel Astakhov", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Didier Burkhalter", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Mikhail Gorbachev", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "José Manuel Barroso", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Queen Elizabeth The Queen Mother", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Leonid Kravchuk", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Leonid Viktorovich Slutsky", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Islam Karimov", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Adolf Hitler", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Alexander Ankvab", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Sergei Tigipko", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nursultan Nazarbayev", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Serzh Sargsyan", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Stephen Harper", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Joachim Gauck", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Shinzō Abe", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Matteo Renzi", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Dmitry Medvedev", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Winston Churchill", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Rinat Akhmetov", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Xi Jinping", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Laurent Fabius", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Radosław Sikorski", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Badri Patarkatsishvili", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Leonid Kuchma", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Viktor Yushchenko", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nikita Khrushchev", 
+				"occurrence": "2"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Rik Mayall", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "241"} 
+				
+					,
+					
+			
+				{"label": "Ben Elton", 
+				"occurrence": "52"} 
+				
+					,
+					
+			
+				{"label": "Peter Richardson (actor)", 
+				"occurrence": "34"} 
+				
+					,
+					
+			
+				{"label": "Stephen Fry", 
+				"occurrence": "28"} 
+				
+					,
+					
+			
+				{"label": "Nigel Planer", 
+				"occurrence": "26"} 
+				
+					,
+					
+			
+				{"label": "Cliff Richard", 
+				"occurrence": "23"} 
+				
+					,
+					
+			
+				{"label": "David Walliams", 
+				"occurrence": "22"} 
+				
+					,
+					
+			
+				{"label": "The Comic Strip", 
+				"occurrence": "21"} 
+				
+					,
+					
+			
+				{"label": "Rory Bremner", 
+				"occurrence": "19"} 
+				
+					,
+					
+			
+				{"label": "Jamie Reed", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Dawn French", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Jennifer Saunders", 
+				"occurrence": "14"} 
+				
+					,
+					
+			
+				{"label": "Monty Python", 
+				"occurrence": "13"} 
+				
+					,
+					
+			
+				{"label": "Eric Idle", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Alexei Sayle", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Jamie Reed (footballer)", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Alan Rickman", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Lise Mayer", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Noel Fielding", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Ruby Wax", 
+				"occurrence": "10"} 
+				
+					,
+					
+			
+				{"label": "Rowan Atkinson", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Helen Lederer", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Joe McElderry", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Ed Sheeran", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "Greg Davies", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Jennifer Lopez", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Ryan Tedder", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Claudia Leitte", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Harry Potter (character)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Laurence Marks (American writer)", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Leona Lewis", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Ellie Goulding", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Jesus", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Caitlin Moran", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Maurice Gran", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Michael Dugher", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Simon Pegg", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Gary Barlow", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Michael Owen (rugby player)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Simon Cowell", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Andrew Gwynne", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Stella Creasy", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Christopher Ryan", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Graham Evans", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Emma Freud", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jack Dee", 
+				"occurrence": "2"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Andrew Percy", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Andrew Percy", 
+				"occurrence": "255"} 
+				
+					,
+					
+			
+				{"label": "Prince William Henry, Duke of Gloucester and Edinburgh", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "King Arthur (DC Comics)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Mad Dog (Marvel Comics)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Kim Howells", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Stephen Dorrell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Beryl Cook", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nigel Adams", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Hain", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nicky Morgan (politician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dolly Parton", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Jason McCartney (footballer)", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Jason McCartney (footballer)", 
+				"occurrence": "239"} 
+				
+					,
+					
+			
+				{"label": "Jason McCartney (politician)", 
+				"occurrence": "233"} 
+				
+					,
+					
+			
+				{"label": "Dean Hoyle", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Angelina Jolie", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Trevor Arthur Smith, Baron Smith of Clifton", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Steve Thompson (footballer born 1955)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Sykes", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Senior", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Brian Robinson (cyclist)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rosemary Murphy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Brown (musician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Oz Clarke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Zac Goldsmith", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Barry Sheerman", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jimmy Savile", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Craig Whittaker", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Paxman", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Debbie Abrahams", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Debbie Abrahams", 
+				"occurrence": "236"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Iain Duncan Smith", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Hunt (cyclist)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Andy Burnham", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Peter Fahy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Desmond Tutu", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jo Brand", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Muhammad", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Monty Python", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chris Hoy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chuka Umunna", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Vladimir Putin", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Vladimir Putin", 
+				"occurrence": "228"} 
+				
+					,
+					
+			
+				{"label": "Petro Poroshenko", 
+				"occurrence": "92"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "68"} 
+				
+					,
+					
+			
+				{"label": "Angela Merkel", 
+				"occurrence": "41"} 
+				
+					,
+					
+			
+				{"label": "Viktor Yanukovych", 
+				"occurrence": "34"} 
+				
+					,
+					
+			
+				{"label": "François Hollande", 
+				"occurrence": "33"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "31"} 
+				
+					,
+					
+			
+				{"label": "Anders Fogh Rasmussen", 
+				"occurrence": "18"} 
+				
+					,
+					
+			
+				{"label": "Sergey Lavrov", 
+				"occurrence": "17"} 
+				
+					,
+					
+			
+				{"label": "Arsen Avakov", 
+				"occurrence": "12"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "11"} 
+				
+					,
+					
+			
+				{"label": "Joe Biden", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Adolf Hitler", 
+				"occurrence": "9"} 
+				
+					,
+					
+			
+				{"label": "Bronisław Komorowski", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Bashar al-Assad", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Kim Jong-il", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Prince Philip, Duke of Edinburgh", 
+				"occurrence": "6"} 
+				
+					,
+					
+			
+				{"label": "Mohammed bin Hammam", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Herman Van Rompuy", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "John Howard (British Army officer)", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Nigel Farage", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Prince Charles, Count of Flanders", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Hillary Rodham Clinton", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Sepp Blatter", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Arseniy Yatsenyuk", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Nick Clegg", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Roger Helmer", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Bernard Lee", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Osama bin Laden", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Harald V of Norway", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Igor Strelkov", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Jack Warner (football executive)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Dalia Grybauskaitė", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "John Kerry", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Laurent Fabius", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Queen Elizabeth The Queen Mother", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Winston Churchill", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Xi Jinping", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Nikita Khrushchev", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Michael Garcia (politician)", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Alexey Miller", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Leonid Viktorovich Slutsky", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Bowe Bergdahl", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Radosław Sikorski", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "James Wallwork", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ashraf Ghani Ahmadzai", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Patrick Mercer", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Raúl Castro", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Sarah Palin", 
+				"occurrence": "2"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Richard Burden", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Richard Burden", 
+				"occurrence": "226"} 
+				
+					,
+					
+			
+				{"label": "Steve McCabe (politician)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Desmond Tutu", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rik Mayall", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Charlie Elphicke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tim Martin (soccer)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gideon Levy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gideon Levy (Dutch journalist)", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Matthew Hancock", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Matthew Hancock", 
+				"occurrence": "229"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "George Osborne", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Therese Coffey", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jon Ashworth", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Bowman (footballer born 1964)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Brian Harvey (athlete)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Heseltine", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Anas Sarwar", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Anas Sarwar", 
+				"occurrence": "208"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "8"} 
+				
+					,
+					
+			
+				{"label": "Alex Salmond", 
+				"occurrence": "7"} 
+				
+					,
+					
+			
+				{"label": "J. K. Rowling", 
+				"occurrence": "5"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "4"} 
+				
+					,
+					
+			
+				{"label": "Barack Obama", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Johann von Lamont", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Nicola Sturgeon", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Alistair Darling", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Patrick Harvie", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Kim Jong-il", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Ted Heath (bandleader)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jim Murphy", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Maria Miller", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Anthony Crosland", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Harry Potter (character)", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "José Manuel Barroso", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "George Osborne", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Balls", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Danny Alexander", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "John Swinney", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Donald Dewar", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Connarty", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Tommy McAvoy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Graeme Pearson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Hillary Rodham Clinton", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Huw Irranca-Davies", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Huw Irranca-Davies", 
+				"occurrence": "211"} 
+				
+					,
+					
+			
+				{"label": "Hilary Benn", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jacob Rees-Mogg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Margaret Bondfield", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jim Griffiths", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Barry John", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dylan Thomas", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Richard Burton (comics)", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Caroline Flint", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Caroline Flint", 
+				"occurrence": "218"} 
+				
+					,
+					
+			
+				{"label": "Edward Davey", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Jonathan Reynolds", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Kenneth Clarke", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Chuka Umunna", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andrew Lansley", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Michael Gove", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Dominic Raab", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Lefroy", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Clive Betts", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Peter Kellner", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Hazel Blears", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andy Coulson", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Hamid Karzai", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Danny Alexander", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Andrew Mitchell", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gary Neville", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Gordon Brown (rugby union)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Mark Thompson (radio)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Raheem Sterling", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Jeremy Wright", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Blunkett", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Ridley Scott", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "Robert Halfon", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "Robert Halfon", 
+				"occurrence": "208"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Ed Miliband", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Margaret Thatcher", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Rebecca Harris", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+			,
+		
+	
+		{"label": "David Lidington", 
+		
+			
+			"quoted-with":[
+			
+				{"label": "David Lidington", 
+				"occurrence": "199"} 
+				
+					,
+					
+			
+				{"label": "David Cameron", 
+				"occurrence": "3"} 
+				
+					,
+					
+			
+				{"label": "Elizabeth II", 
+				"occurrence": "2"} 
+				
+					,
+					
+			
+				{"label": "Tony Blair", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Margot James", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Sergey Lavrov", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Murray McCully", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "William Hague", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Union Jack (comics)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Prince Philip, Duke of Edinburgh", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Derrick Williams (American football)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Bill Millin", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Nick Rose", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Charles Stuart, Duke of Kendal", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Steve Ellis (musician)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Damian Green", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Angelina Jolie", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "William Hague (architect)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Harry, Prince of Wales (Blackadder)", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Catherine, Duchess of Cambridge", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Elisabeth II, Abbess of Quedlinburg", 
+				"occurrence": "1"} 
+				
+					,
+					
+			
+				{"label": "Edward Thomas (poet)", 
+				"occurrence": "1"} 
+					
+					
+			]}
+		
+		
+		
+	]}
+
+
