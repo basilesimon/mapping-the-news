@@ -4,13 +4,16 @@
 <head>
   <meta charset="UTF-8">
   <title>Mapping the News</title>
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script type="text/javascript" src="lib/d3.js"></script>
   <script type="text/javascript" src="lib/d3.geom.js"></script>
   <script type="text/javascript" src="lib/d3.layout.js"></script>
 </head>
 
 <body>
-
+<h1>Mapping the news <small>Visualising the news with linked-data</small></h1>
 </body>
 
 <style>
@@ -35,8 +38,8 @@ text {
 }
 </style>
 <script>
-var w = 1300,
-  h = 700,
+var w = 1800,
+  h = 1000,
   r = 6;
 
 var svg = d3.select("body")
@@ -45,7 +48,7 @@ var svg = d3.select("body")
   .attr("height", h)
   .attr("preserveAspectRatio", "xMinYMin slice");
 
-d3.json("data/pers_data_500.json", function(error, json) {
+d3.json("data/new_pers_500.json", function(error, json) {
   if (error) {
     return console.warn(error)
   };
@@ -53,18 +56,20 @@ d3.json("data/pers_data_500.json", function(error, json) {
   var force = self.force = d3.layout.force()
     .nodes(json.occurrences)
     .links(json.links)
-    .linkStrength(0.1)
-    .linkDistance(50)
+    .linkStrength(1)
+    .theta(0.8)
+    .linkDistance(30)
     .gravity(1)
     .distance(function(d) { return 1 / d.weight * 2 })
-    .charge(-100)
-    .size([w, h])
-    .start();
+    .charge(-500)
+    .friction(0.6)
+    .size([w, h]);
+    //.start();
 
-  var node_drag = d3.behavior.drag()
+  /*var node_drag = d3.behavior.drag()
     .on("dragstart", dragstart)
     .on("drag", dragmove)
-    .on("dragend", dragend);
+    .on("dragend", dragend);*/
 
   var link = svg.selectAll(".link")
     .data(json.links)
@@ -74,13 +79,14 @@ d3.json("data/pers_data_500.json", function(error, json) {
     .attr("y1", function(d) { return d.source.y; })
     .attr("x2", function(d) { return d.target.x; })
     .attr("y2", function(d) { return d.target.y; })
-    .style("stroke", "#403E3E");
+    //.style("stroke", "#cbc9c9");
+    .style("stroke", function(d) { if(d.weight > 20) return "#CBC9C9" });
 
   var node = svg.append("g").selectAll("circle")
     .data(json.occurrences)
     .enter().append("circle")
     .attr("class", "node")
-    .attr("r", function(d) { return d.occurrence / 30 })
+    .attr("r", function(d) { return d.occurrence / 20 })
     .attr("cx", function() { return Math.random() * w; })
     .attr("cy", function() { return Math.random() * h; })
     .style("fill", "#ef492a");
@@ -105,11 +111,11 @@ d3.json("data/pers_data_500.json", function(error, json) {
     .data(newjson)      //note the use of newjson, and not json.occurrences
     .enter().append("text")
     .attr("x", function(d) { return d.x; })
-    .attr("y", function(d) { return d.y; });
-    //.text(function(d) { return d.label; });
+    .attr("y", function(d) { return d.y; })
+    .text(function(d) { if(d.occurrence > 500) return d.label; });
     //.style("opacity", "0.1");
 
-  function dragstart(d, i) {
+  /*function dragstart(d, i) {
     force.stop(); // stops the force auto positioning before you start dragging
   }
 
@@ -125,7 +131,7 @@ d3.json("data/pers_data_500.json", function(error, json) {
     d.fixed = true; // of course set the node to fixed so the force doesn't include the node in its auto positioning stuff
     tick();
     force.resume();
-  }
+  }*/
 
   force.on("tick", tick);
 
@@ -141,6 +147,16 @@ d3.json("data/pers_data_500.json", function(error, json) {
       .attr("y", function(d) {return d.y;});
 
   }
+setTimeout(function() {
+force.start();
+for (var i = 0; i < 20; ++i) force.tick();
+force.stop();
+/*  var k = 0;
+  while ((force.alpha() > 1e-2) && (k < 300)) {
+    force.tick(),
+    k = k + 1;
+  }*/
+}, 10)
 });
 </script>
 

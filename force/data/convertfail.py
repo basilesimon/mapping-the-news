@@ -14,7 +14,7 @@ def extract_all_occurences(data):
             if not cooccurrence['label'] in occurrences:
                 occurrences[cooccurrence['label']] = {
                     'label': cooccurrence['label'],
-                    'occurrence': cooccurrence['occurrence']
+                    'occurrence': ''
                 }
     return occurrences.values()
 
@@ -52,7 +52,7 @@ def main():
     new_data = {}
     new_data['occurrences'] = extract_all_occurences(data)
     new_data['links'] = trace_links(data, new_data['occurrences'])
-    with open('new_pers_500.json', 'w') as out:
+    with open('new_pers_fail_500.json', 'w') as out:
         json.dump(new_data, out, indent=2)
 
 if __name__ == '__main__':
