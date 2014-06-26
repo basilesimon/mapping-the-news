@@ -23,27 +23,29 @@ circle.node {
   stroke: #000;
   stroke-width:2px;
 }
-line.link {
+/*line.link {
   fill: none;
   stroke: #a1a1a1;
   stroke-width: 1px;
-}
+}*/
 text {
-  font: 15px sans-serif;
+  font: 10px sans-serif;
   pointer-events: none;
   text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
 }
 </style>
 <script>
-var w = 3000,
-  h = 1800;
+var w = 1300,
+  h = 700,
+  r = 6;
+
 var svg = d3.select("body")
   .append("svg")
   .attr("width", w)
   .attr("height", h)
   .attr("preserveAspectRatio", "xMinYMin slice");
 
-d3.json("data/new_data_50.json", function(error, json) {
+d3.json("data/pers_data_500.json", function(error, json) {
   if (error) {
     return console.warn(error)
   };
@@ -52,12 +54,10 @@ d3.json("data/new_data_50.json", function(error, json) {
     .nodes(json.occurrences)
     .links(json.links)
     .linkStrength(0.1)
-    .linkDistance(200)
-    .gravity(0.1)
-    .distance(function(d) {
-      return 1 / d.weight * 3
-    })
-    .charge(-600)
+    .linkDistance(50)
+    .gravity(1)
+    .distance(function(d) { return 1 / d.weight * 2 })
+    .charge(-100)
     .size([w, h])
     .start();
 
@@ -70,42 +70,44 @@ d3.json("data/new_data_50.json", function(error, json) {
     .data(json.links)
     .enter().append("line")
     .attr("class", "link")
-    .attr("x1", function(d) {
-      return d.source.x;
-    })
-    .attr("y1", function(d) {
-      return d.source.y;
-    })
-    .attr("x2", function(d) {
-      return d.target.x;
-    })
-    .attr("y2", function(d) {
-      return d.target.y;
-    });
+    .attr("x1", function(d) { return d.source.x; })
+    .attr("y1", function(d) { return d.source.y; })
+    .attr("x2", function(d) { return d.target.x; })
+    .attr("y2", function(d) { return d.target.y; })
+    .style("stroke", "#403E3E");
 
   var node = svg.append("g").selectAll("circle")
     .data(json.occurrences)
     .enter().append("circle")
     .attr("class", "node")
-    .attr("r", function(d) {
-      return d.occurrence / 30
-    })
-    .attr("cx", function() {
-      return Math.random() * w;
-    })
-    .attr("cy", function() {
-      return Math.random() * h;
-    })
+    .attr("r", function(d) { return d.occurrence / 30 })
+    .attr("cx", function() { return Math.random() * w; })
+    .attr("cy", function() { return Math.random() * h; })
     .style("fill", "#ef492a");
+
   /*Disables the drag behaviour*/
   //.call(force.drag);
 
+  //prepare a new array from the original json
+  //so we only append the labels of the persons we have
+  //the actual occurrences weight
+  var newjson = [];
+  function removeNodes(){
+    for (var i=0; i<json.occurrences.length; i++) {
+      if(json.occurrences[i].occurrence != "") {
+        newjson.push(json.occurrences[i])
+      }
+    }
+  }
+  removeNodes(json);
+
   var text = svg.selectAll("text")
-    .data(json.occurrences)
+    .data(newjson)      //note the use of newjson, and not json.occurrences
     .enter().append("text")
-    .attr("x", function(d) {return d.x;})
-    .attr("y", function(d) {return d.y;})
-    .text(function(d) {return d.label;});
+    .attr("x", function(d) { return d.x; })
+    .attr("y", function(d) { return d.y; });
+    //.text(function(d) { return d.label; });
+    //.style("opacity", "0.1");
 
   function dragstart(d, i) {
     force.stop(); // stops the force auto positioning before you start dragging
@@ -133,8 +135,8 @@ d3.json("data/new_data_50.json", function(error, json) {
       .attr("y1", function(d) {return d.source.y;})
       .attr("x2", function(d) {return d.target.x;})
       .attr("y2", function(d) {return d.target.y;});
-    node.attr("cx", function(d) {return d.x;})
-      .attr("cy", function(d) {return d.y;});
+    node.attr("cx", function(d) { return d.x = Math.max(r, Math.min(w - r, d.x)); })  //bounds to rectangle
+      .attr("cy", function(d) { return d.y = Math.max(r, Math.min(h - r, d.y)); });
     text.attr("x", function(d) {return d.x;})
       .attr("y", function(d) {return d.y;});
 
