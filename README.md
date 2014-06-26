@@ -1,4 +1,4 @@
-![alt-tag](https://raw.githubusercontent.com/basilesimon/mapping-the-news/master/force/Mapping%20the%20News.png)
+![alt-tag](https://raw.githubusercontent.com/basilesimon/mapping-the-news/master/force/newgravparams.png)
 
 #Mapping the News
 
