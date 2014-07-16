@@ -13,7 +13,15 @@
 </head>
 
 <body>
-<h1>Mapping the news <small>Visualising the news with linked-data</small></h1>
+  <h1>BBC News Labs -
+    <small>Visualising the news with linked-data</small>
+  </h1>
+  <button type="button" id="first" data-loading-text="Loading..." class="btn btn-primary">
+    100 persons and orgs
+  </button>
+  <button type="button" id="second" data-loading-text="Loading..." class="btn btn-primary">
+    500 persons and persons
+  </button>
 </body>
 
 <style>
@@ -24,13 +32,14 @@ body {
 circle.node {
   cursor: pointer;
   stroke: #000;
-  stroke-width:2px;
+  stroke-width: 2px;
 }
 /*line.link {
   fill: none;
   stroke: #a1a1a1;
   stroke-width: 1px;
 }*/
+
 text {
   font: 10px sans-serif;
   pointer-events: none;
@@ -38,8 +47,8 @@ text {
 }
 </style>
 <script>
-var w = 1800,
-  h = 1000,
+var w = 1400,
+  h = 700,
   r = 6;
 
 var svg = d3.select("body")
@@ -48,23 +57,22 @@ var svg = d3.select("body")
   .attr("height", h)
   .attr("preserveAspectRatio", "xMinYMin slice");
 
-d3.json("data/new_pers_500.json", function(error, json) {
-  if (error) {
-    return console.warn(error)
-  };
-
+//Global draw function to call with each button click
+function draw(json) {
   var force = self.force = d3.layout.force()
     .nodes(json.occurrences)
     .links(json.links)
     .linkStrength(1)
     .theta(0.8)
-    .linkDistance(30)
+    .linkDistance(10)
     .gravity(1)
-    .distance(function(d) { return 1 / d.weight * 2 })
-    .charge(-500)
+    .distance(function(d) {
+      return 1 / d.weight * 2
+    })
+    .charge(-200)
     .friction(0.6)
     .size([w, h]);
-    //.start();
+  //.start();
 
   /*var node_drag = d3.behavior.drag()
     .on("dragstart", dragstart)
@@ -75,21 +83,43 @@ d3.json("data/new_pers_500.json", function(error, json) {
     .data(json.links)
     .enter().append("line")
     .attr("class", "link")
-    .attr("x1", function(d) { return d.source.x; })
-    .attr("y1", function(d) { return d.source.y; })
-    .attr("x2", function(d) { return d.target.x; })
-    .attr("y2", function(d) { return d.target.y; })
+    .attr("x1", function(d) {
+      return d.source.x;
+    })
+    .attr("y1", function(d) {
+      return d.source.y;
+    })
+    .attr("x2", function(d) {
+      return d.target.x;
+    })
+    .attr("y2", function(d) {
+      return d.target.y;
+    })
     //.style("stroke", "#cbc9c9");
-    .style("stroke", function(d) { if(d.weight > 20) return "#CBC9C9" });
+    .style("stroke", function(d) {
+      if (d.weight > 10) return "#CBC9C9"
+    });
 
   var node = svg.append("g").selectAll("circle")
     .data(json.occurrences)
     .enter().append("circle")
     .attr("class", "node")
-    .attr("r", function(d) { return d.occurrence / 20 })
-    .attr("cx", function() { return Math.random() * w; })
-    .attr("cy", function() { return Math.random() * h; })
-    .style("fill", "#ef492a");
+    .attr("r", function(d) {
+      return d.occurrence / 20
+    })
+    .attr("cx", function() {
+      return Math.random() * w;
+    })
+    .attr("cy", function() {
+      return Math.random() * h;
+    })
+    .style("fill", "#EF492A");
+  /* function(d) {
+      if (d.occurrence < 10)  return "#ffa2a2";
+      else if (d.occurrence < 30)  return "#ff6868";
+      else if (d.occurrence < 50)  return "#ff3d3d";
+      else (d.occurrence <100)  return "#fd2323";
+     });*/
 
   /*Disables the drag behaviour*/
   //.call(force.drag);
@@ -98,9 +128,10 @@ d3.json("data/new_pers_500.json", function(error, json) {
   //so we only append the labels of the persons we have
   //the actual occurrences weight
   var newjson = [];
-  function removeNodes(){
-    for (var i=0; i<json.occurrences.length; i++) {
-      if(json.occurrences[i].occurrence != "") {
+
+  function removeNodes() {
+    for (var i = 0; i < json.occurrences.length; i++) {
+      if (json.occurrences[i].occurrence != "") {
         newjson.push(json.occurrences[i])
       }
     }
@@ -108,11 +139,15 @@ d3.json("data/new_pers_500.json", function(error, json) {
   removeNodes(json);
 
   var text = svg.selectAll("text")
-    .data(newjson)      //note the use of newjson, and not json.occurrences
+    .data(newjson) //note the use of newjson, and not json.occurrences
     .enter().append("text")
-    .attr("x", function(d) { return d.x; })
-    .attr("y", function(d) { return d.y; })
-    .text(function(d) { if(d.occurrence > 500) return d.label; });
+    .attr("x", function(d) {
+      return d.x;
+    })
+    .attr("y", function(d) {
+      return d.y;
+    })
+    //.text(function(d) { if(d.occurrence > 500) return d.label; });
     //.style("opacity", "0.1");
 
   /*function dragstart(d, i) {
@@ -137,26 +172,63 @@ d3.json("data/new_pers_500.json", function(error, json) {
 
   /*Needs fixing the appropriate position post drag*/
   function tick() {
-    link.attr("x1", function(d) {return d.source.x;})
-      .attr("y1", function(d) {return d.source.y;})
-      .attr("x2", function(d) {return d.target.x;})
-      .attr("y2", function(d) {return d.target.y;});
-    node.attr("cx", function(d) { return d.x = Math.max(r, Math.min(w - r, d.x)); })  //bounds to rectangle
-      .attr("cy", function(d) { return d.y = Math.max(r, Math.min(h - r, d.y)); });
-    text.attr("x", function(d) {return d.x;})
-      .attr("y", function(d) {return d.y;});
+    link.attr("x1", function(d) {
+        return d.source.x;
+      })
+      .attr("y1", function(d) {
+        return d.source.y;
+      })
+      .attr("x2", function(d) {
+        return d.target.x;
+      })
+      .attr("y2", function(d) {
+        return d.target.y;
+      });
+    node.attr("cx", function(d) {
+        return d.x = Math.max(r, Math.min(w - r, d.x));
+      }) //bounds to rectangle
+      .attr("cy", function(d) {
+        return d.y = Math.max(r, Math.min(h - r, d.y));
+      });
+    text.attr("x", function(d) {
+        return d.x;
+      })
+      .attr("y", function(d) {
+        return d.y;
+      });
 
   }
-setTimeout(function() {
-force.start();
-for (var i = 0; i < 20; ++i) force.tick();
-force.stop();
-/*  var k = 0;
-  while ((force.alpha() > 1e-2) && (k < 300)) {
-    force.tick(),
-    k = k + 1;
-  }*/
-}, 10)
+  setTimeout(function() {
+    force.start();
+    for (var i = 0; i < 20; ++i) force.tick();
+    force.stop();
+    /*  var k = 0;
+      while ((force.alpha() > 1e-2) && (k < 300)) {
+        force.tick(),
+        k = k + 1;
+      }*/
+  }, 10)
+}
+
+$('#first').click(function() {
+  $("svg").empty();
+  var url = "data/data-to-test/new_100persorg0601.json";
+  d3.json(url, function(error, json) {
+    if (error) {
+      return console.warn(error)
+    };
+    draw(json);
+  });
+});
+
+$('#second').click(function() {
+  var url = "data/new_pers_500.json";
+  d3.json(url, function(error, json) {
+    if (error) {
+      return console.warn(error)
+    };
+    draw(json);
+  });
 });
 </script>
 
