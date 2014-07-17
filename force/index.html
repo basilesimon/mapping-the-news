@@ -17,16 +17,16 @@
     <small>Visualising the news with linked-data</small>
   </h1>
   <button type="button" id="first" data-loading-text="Loading..." class="btn btn-primary">
-    100 persons and orgs
-  </button>
-  <button type="button" id="second" data-loading-text="Loading..." class="btn btn-primary">
-    500 persons and persons
-  </button>
-  <button type="button" id="third" data-loading-text="Loading..." class="btn btn-primary">
     50 persons and persons
   </button>
-  <button type="button" id="fourth" data-loading-text="Loading..." class="btn btn-primary">
+  <button type="button" id="second" data-loading-text="Loading..." class="btn btn-primary">
     100 persons and persons
+  </button>
+  <button type="button" id="third" data-loading-text="Loading..." class="btn btn-primary">
+    100 persons and orgs
+  </button>
+  <button type="button" id="fourth" data-loading-text="Loading..." class="btn btn-primary">
+    500 persons and persons
   </button>
 </body>
 
@@ -57,11 +57,22 @@ var w = 1400,
   h = 700,
   r = 6;
 
+var zoom = d3.behavior.zoom()
+  .scaleExtent([1, 10])
+  .on("zoom", zoomed);
+
 var svg = d3.select("body")
-  .append("svg")
+  .append("svg:svg")
   .attr("width", w)
   .attr("height", h)
-  .attr("preserveAspectRatio", "xMinYMin slice");
+  .attr("preserveAspectRatio", "xMinYMin slice")
+  .call(zoom);
+
+var container = svg.append("g");
+
+function zoomed() {
+  container.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+}
 
 //Global draw function to call with each button click
 function draw(json) {
@@ -77,15 +88,10 @@ function draw(json) {
     })
     .charge(-200)
     .friction(0.6)
-    .size([w, h]);
-  //.start();
+    .size([w, h])
+    .start();
 
-  /*var node_drag = d3.behavior.drag()
-    .on("dragstart", dragstart)
-    .on("drag", dragmove)
-    .on("dragend", dragend);*/
-
-  var link = svg.selectAll(".link")
+  var link = container.selectAll(".link")
     .data(json.links)
     .enter().append("line")
     .attr("class", "link")
@@ -106,7 +112,7 @@ function draw(json) {
       if (d.weight > 10) return "#CBC9C9"
     });
 
-  var node = svg.append("g").selectAll("circle")
+  var node = container.append("g").selectAll("circle")
     .data(json.occurrences)
     .enter().append("circle")
     .attr("class", "node")
@@ -144,7 +150,7 @@ function draw(json) {
   }
   removeNodes(json);
 
-  var text = svg.selectAll("text")
+  var text = container.selectAll("text")
     .data(newjson) //note the use of newjson, and not json.occurrences
     .enter().append("text")
     .attr("x", function(d) {
@@ -153,26 +159,10 @@ function draw(json) {
     .attr("y", function(d) {
       return d.y;
     })
-    .text(function(d) { if(d.occurrence > 500) return d.label; });
-    //.style("opacity", "0.1");
-
-  /*function dragstart(d, i) {
-    force.stop(); // stops the force auto positioning before you start dragging
-  }
-
-  function dragmove(d, i) {
-    d.px += d3.event.dx;
-    d.py += d3.event.dy;
-    d.x += d3.event.dx;
-    d.y += d3.event.dy;
-    tick();
-  }
-
-  function dragend(d, i) {
-    d.fixed = true; // of course set the node to fixed so the force doesn't include the node in its auto positioning stuff
-    tick();
-    force.resume();
-  }*/
+    .text(function(d) {
+      if (d.occurrence > 500) return d.label;
+    });
+  //.style("opacity", "0.1");
 
   force.on("tick", tick);
 
@@ -202,43 +192,12 @@ function draw(json) {
       .attr("y", function(d) {
         return d.y;
       });
-
   }
-  setTimeout(function() {
-    force.start();
-    for (var i = 0; i < 20; ++i) force.tick();
-    force.stop();
-    /*  var k = 0;
-      while ((force.alpha() > 1e-2) && (k < 300)) {
-        force.tick(),
-        k = k + 1;
-      }*/
-  }, 10)
+
 }
 
 $('#first').click(function() {
-  $("svg").empty();
-  var url = "data/data-to-test/new_100persorg0601.json";
-  d3.json(url, function(error, json) {
-    if (error) {
-      return console.warn(error)
-    };
-    draw(json);
-  });
-});
-
-$('#second').click(function() {
-  $("svg").empty();
-  var url = "data/new_pers_500.json";
-  d3.json(url, function(error, json) {
-    if (error) {
-      return console.warn(error)
-    };
-    draw(json);
-  });
-});
-$('#third').click(function() {
-  $("svg").empty();
+  $("g").empty();
   var url = "data/new_data_50.json";
   d3.json(url, function(error, json) {
     if (error) {
@@ -247,9 +206,29 @@ $('#third').click(function() {
     draw(json);
   });
 });
-$('#fourth').click(function() {
-  $("svg").empty();
+$('#second').click(function() {
+  $("g").empty();
   var url = "data/data-to-test/new_100perspers0601.json";
+  d3.json(url, function(error, json) {
+    if (error) {
+      return console.warn(error)
+    };
+    draw(json);
+  });
+});
+$('#third').click(function() {
+  $("g").empty();
+  var url = "data/data-to-test/new_100persorg0601.json";
+  d3.json(url, function(error, json) {
+    if (error) {
+      return console.warn(error)
+    };
+    draw(json);
+  });
+});
+$('#fourth').click(function() {
+  $("g").empty();
+  var url = "data/new_pers_500.json";
   d3.json(url, function(error, json) {
     if (error) {
       return console.warn(error)
